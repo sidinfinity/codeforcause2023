@@ -54,24 +54,8 @@ began teaching classes with GATE and continued deepening my
 understanding by focusing on data science, completing numerous
 Udemy courses in this field. Eventually, I became the president of the
 Data Science Club at Irvington High School.
-     To enhance my business skills, I joined DECA, an organization that
-hosts business competitions, and I won first place in VBC at their
-International Career Development Conference. My entrepreneurial
-journey includes founding Pawfect Petcare, a pet supply startup
-inspired by owning a dog and a passion for business.
-     My dedication to community service began with becoming a Boy
-Scout in 8th grade. The experiences and principles I gained from
-scouting led me to co-found STEM Made Fun, a 501c3 nonprofit
-organization. This organization combines my passion for STEM with a
-commitment to educational accessibility and community service.
-     Whether I'm walking my dog, studying data science, running a
-business, or working to enhance my community, my goal is always to
-make a positive, significant impact on the world around me.
 
-
-
-
-                     ABOUT THE AUTHORS                               II
+II
  ABOUT THE AUTHORS
 
                               Krishiv Aggarwal
@@ -83,13 +67,7 @@ with parents who hold master's degrees in STEM fields has provided me
 with extensive exposure to subjects relating to robotics and sciences
 and encouraged me to pursue knowledge in programming languages
 such as Python, web development (HTML, CSS, JavaScript), and C.
-Additionally my participation in the Aspiring Scholars Directed Research
-Program (ASDRP) has helped me delve deeper into the engineering
-aspect of these fields and solidified my interest in the subject.
-Currently, I am working on a project to create an automated chemical
-synthesizer using a UR5 robotic arm, with the aim of making drug
-discovery and development easier.
-      In addition to my academic pursuits, I am also dedicated to giving
+    In addition to my academic pursuits, I am also dedicated to giving
 back to the community. I am the founder of STEM Made Fun (SMF), a
 nonprofit organization that brings STEM education to underprivileged
 and underrepresented communities. We host sessions in local schools
@@ -97,47 +75,18 @@ where they don't have access to after-school programs and for
 disadvantaged girls in Noida, India. Our goal is to provide students
 without access to the same resources and opportunities we are
 fortunate to have growing up in Silicon Valley.
-       I am a proud Eagle Scout and have been in the Scout community
-since I was in fourth grade. Through Scouting, I have learned the
-importance of living by the principle of "doing a good turn daily" and
-making a positive impact on the world. Through my involvement in STEM
-education and community service, I aim to continue helping others to
-create a better future for all.
-
-
-  III                ABOUT THE AUTHORS
-    CONTRIBUTERS
 
 
 
-
+  III                
+  ABOUT THE AUTHORS
+CONTRIBUTERS
  Aariv A.      Anish J.     Arnav S.
-
-
-
-
 Justin L.     Karthik N. Karthik S.
-
-
-
-
 Prithvi M. Pratyush M.          Riti N.
-
-            ABOUT THE AUTHORS             IV
-    CONTRIBUTERS
-
-
-
-
 Rohith B. Saaeesh N.            Sai P.
 
-
-
-
 Sathvik L.     Sreyas Y.        Shaan P.
-
-
-
 
 Sujith S.      Tanuj K.         Varun C.
 
@@ -4773,4 +4722,47 @@ still won't derail through a loop?
 
 
 
+
+Useful Resources (Youtube):
+
+Unit 1 Lesson 1
+https://www.youtube.com/watch?v=tvnCs2YZ-Jo&list=PLhjLi_XV_ESKQTPXPfTOtNMov4xL5XgGJ&index=1&ab_channel=STEMMadeFun
+This video explores how gravity and weight work on different planets and 
+the relationship between speed, velocity, and direction when going on a curve.
+
+Unit 1 Lesson 2:
+https://www.youtube.com/watch?v=6ToBe6uGV4g&list=PLhjLi_XV_ESKQTPXPfTOtNMov4xL5XgGJ&index=2&ab_channel=STEMMadeFun
+This video explores why different sports use different types of shoes 
+because they require different amounts of friction for optimal performance - Friction. 
+Friction is essential for walking, running, and stopping, and without it, movement would be impossible.
+
+Unit 2 Lesson 1:
+https://www.youtube.com/watch?v=t_OFzgtjqVI&ab_channel=STEMMadeFun
+This video discusses the flow of electricity, how its made, and it's applications to the real world.
+
+Unit 2 Lesson 2:
+https://www.youtube.com/watch?v=ekKV-1uj8Yw&ab_channel=STEMMadeFun
+This video goes in depth on world of magnets and their applications. 
+Magnets are commonly used in various fields, and understanding their properties and characteristics is crucial in harnessing their power.
+
+Unit 2 Lesson 3:
+https://www.youtube.com/watch?v=8B6_uY21MSQ&ab_channel=STEMMadeFun
+This video goes in depth on circuits and talks about it's applications.
+
+Unit 2 Lesson 5:
+https://www.youtube.com/watch?v=5IxkjfIgqAU&ab_channel=STEMMadeFun
+This video talks about Electromagnets: The Static Attraction and Shocking Voltage of Electromagnets. 
+
+Unit 2 Lesson 6:
+https://www.youtube.com/watch?v=TcrAJNnWQvc&ab_channel=STEMMadeFun
+This video covers Penny batteries and their ability to conduct electricity. 
+It discuss the concept of electricity, how it is created through electrical generation, and the principles of conservation of energy.
+
+Unit 3 Lesson 1:
+https://www.youtube.com/watch?v=H0sM5aKp5V4
+This video unviels the Science Behind Motion by talking about Newton's Laws of Motion.
+
+Unit 3 Lesson 2:
+https://www.youtube.com/watch?v=Cu3c--lmUT8&ab_channel=STEMMadeFun
+This video explores the different types of energies such as potential energy and kinetic energy.
 
