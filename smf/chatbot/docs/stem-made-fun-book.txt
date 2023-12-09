@@ -1,22 +1,3 @@
-             COPYWRITE
-             Copyright © 2023 by STEM Made Fun
-
-
-     All rights reserved. No part of this publication may be
- reproduced, distributed, or transmitted in any form or by any
-means, including photocopying, recording, or other electronic or
-mechanical methods, without the prior written permission of the
- publisher, except in the case of brief quotations embodied in
-critical reviews and certain other noncommercial uses permitted
-                       by copyright law.
-
-
- This book is a work of non-fiction. Unless otherwise noted, the
- author and the publisher make no explicit guarantees as to the
-accuracy of the information contained in this book and will not
-        be held responsible for any errors or omissions.
-
-
                  Published by STEMMADEFun
             Printed in the United States of America.
    For permission requests, write to the publisher, addressed
@@ -26,38 +7,6 @@ accuracy of the information contained in this book and will not
                    stemmadefun@gmail.com
 
 
-                        COPYWRITE
-  TABLE OF CONTENTS
-  PREFACE........................................................................I
-  ABOUT THE AUTHORS................................................II
-  CONTRIBUTORS ........................................................IV
-I. UNIT 1: EXPERIENCE THE FORCE...............................1
-  1.1: Gravity....................................................................................2
-  1.2: Friction + Air..........................................................................8
-  1.3: How Airplanes Fly...............................................................16
-  1.4: Air Pressure.........................................................................24
-  1.5: Sustainable Aviation..........................................................32
-  1.6: Applying to Airplanes........................................................40
-
-II. UNIT 2: FLOW OF ELECTRICITY................................48
-  2.1: Electricity.............................................................................49
-  2.2: Magnet..................................................................................58
-  2.3: How Circuits Work..............................................................66
-  2.4: Applications.........................................................................74
-  2.5: Electromagnets...................................................................81
-  2.6: Penny Batteries..................................................................89
-
-III. UNIT 3: OBJECTS IN MOTION.................................97
-  3.1: Newton's Laws....................................................................98
-  3.2: Types of Energy................................................................105
-  3.3: Systems and References.................................................113
-  3.4: Machines............................................................................121
-  3.5: Cars on a Roll Gravity......................................................129
-  3.6: Roller Coasters.................................................................136
-
-
-                          TABLE OF CONTENTS
-                       PREFACE
 
 Stem Made Fun's Purpose
 Our mission at STEMMadeFun is to empower individuals with learning
@@ -90,7 +39,7 @@ learning process enjoyable and memorable.
 
 
   I                   TABLE OF CONTENTS
- ABOUT THE AUTHORS
+ ABOUT THE AUTHORS
 
                              Aashrith Bandaru
                                  Founder
@@ -123,7 +72,7 @@ make a positive, significant impact on the world around me.
 
 
                      ABOUT THE AUTHORS                               II
- ABOUT THE AUTHORS
+ ABOUT THE AUTHORS
 
                               Krishiv Aggarwal
                                   Founder
@@ -157,7 +106,7 @@ create a better future for all.
 
 
   III                ABOUT THE AUTHORS
-    CONTRIBUTERS
+    CONTRIBUTERS
 
 
 
@@ -175,7 +124,7 @@ Justin L.     Karthik N. Karthik S.
 Prithvi M. Pratyush M.          Riti N.
 
             ABOUT THE AUTHORS             IV
-    CONTRIBUTERS
+    CONTRIBUTERS
 
 
 
@@ -193,8 +142,8 @@ Sathvik L.     Sreyas Y.        Shaan P.
 Sujith S.      Tanuj K.         Varun C.
 
 V           ABOUT THE AUTHORS
-Page Intentionally left blank
-  EXPERIENCE
+Page Intentionally left blank
+  EXPERIENCE
    THE FORCE
               LIFT
 
@@ -214,7 +163,7 @@ DRAG                 THRUST
         CHECK OUT
        OUR YOUTUBE
         CHANNEL!
-           1.1 GRAVITY
+           1.1 GRAVITY
 What are forces and why do they matter?
 
                          Questions of
@@ -245,7 +194,7 @@ What are forces and why do they matter?
 
 
                    1.1 GRAVITY                             2
-         INTRO TO GRAVITY
+         INTRO TO GRAVITY
       Gravity                       Gravity is defined as the force of attraction
                                     between two objects. All objects on Earth
                                     are attracted to Earth's center because of
@@ -288,7 +237,7 @@ up. It will always come back
 
 
   3                                   1.1 GRAVITY
-  MASS AND WEIGHT
+  MASS AND WEIGHT
 
 
 
@@ -321,7 +270,7 @@ time.
 
 
                         1.1 GRAVITY                                   4
-     WHY DO WE CARE
+     WHY DO WE CARE
      ABOUT "GRAVITY"
  Have you ever thought of how beautiful
  the nature around us is? Well, then you
@@ -360,7 +309,7 @@ wave. Pretty cool right?
 
 
 5                         1.1 GRAVITY
-FINDING WEIGHT ON
+FINDING WEIGHT ON
 DIFFERENT PLANETS
 
       The Astronaut's Dilemna
@@ -393,7 +342,7 @@ earth by Earth's
  10.4 m/s^2
 
                       1.1 GRAVITY                              6
-THOUGHT PROVOKING
+THOUGHT PROVOKING
       What would hit the ground first?
 
 
@@ -421,7 +370,7 @@ earth by Earth's
 
 
 7                   1.1 GRAVITY
-     1.2 FRICTION + AIR
+     1.2 FRICTION + AIR
  What is friction and why is it important?
 
                 Questions of the day
@@ -455,7 +404,7 @@ earth by Earth's
 
                    1.2 FRICTION + AIR                          8
 By. XXX
-      WHAT IS FRICTION
+      WHAT IS FRICTION
 By definition, friction is a force that opposes the motion of two objects
 that are in contact. It exists in different forms, like kinetic friction,
 static friction, fluid friction, and rolling friction. Since friction is a
@@ -490,7 +439,7 @@ Friction Force                                  Velocity
 
 
 9                     1.2 FRICTION + AIR
-      USES OF FRICTION
+      USES OF FRICTION
 Engineering
 When engineers are designing
 machines and objects like cars
@@ -526,7 +475,7 @@ when a driver hits the brakes.
 
 
                       1.2 FRICTION + AIR                            10
-         WHAT AFFECTS
+         WHAT AFFECTS
            FRICTION
      Normal Force
 The normal force is the upward force that
@@ -565,7 +514,7 @@ well.
 
 
 11                  1.2 FRICTION + AIR
-    TYPES OF FRICTION
+    TYPES OF FRICTION
            Static                          Kinetic
   Static     friction  is   the    Kinetic friction is defined as
   frictional force between an      the frictional force between
@@ -606,7 +555,7 @@ FRICTION                           FRICTION
 
 
                        1.2 FRICTION + AIR                     12
-     TYPES OF FRICTION
+     TYPES OF FRICTION
          Fluid                              Rolling
 Why is it harder to move your      Similar to kinetic friction,
 legs and body when you are         rolling friction is the frictional
@@ -638,7 +587,7 @@ fluid friction                       rolling friction with surface
 
 
 13                   1.2 FRICTION + AIR
-              APPLICATION
+              APPLICATION
  Experiment#1:                            Experiment#2:
  Rolling Friction                         Static Friction
 1. Take any ball you have in your       1. Take any small box you have
@@ -669,7 +618,7 @@ on the smoother one? Explain.          than the rough surface? Explain.
 
 
                        1.2 FRICTION + AIR                            14
-THOUGHT PROVOKING
+THOUGHT PROVOKING
 
                               Imagine friction
                               suddenly
@@ -696,7 +645,7 @@ on the smoother one? Explain.          than the rough surface? Explain.
 
 
 15             1.2 FRICTION + AIR
-       1.3 HOW
+       1.3 HOW
     AIRPLANES FLY
   How do airplanes actually fly?
 
@@ -729,7 +678,7 @@ Turbulence
 
 
          1.3 HOW AIRPLANES FLY                            16
-                             DRAG
+                             DRAG
                                   What is drag?
                           When an airplane is flying, it has to move
                           through the air, which creates resistance or
@@ -765,7 +714,7 @@ airplane as safely and    or descend, or maintain a stable flight path. Drag
 
 
  17                 1.3 HOW AIRPLANES FLY
-                        THRUST
+                        THRUST
 What is thrust?
 Thrust is defined as a force that pushes an
 object in a specific direction. In the case of
@@ -802,7 +751,7 @@ remain stationary.
 
 
                      1.3 HOW AIRPLANES FLY                        18
-                                 LIFT
+                                 LIFT
                          What is lift?
                          Lift is an upward force that is exerted on an object
                          when it moves through a fluid, such as air or
@@ -841,7 +790,7 @@ allowing the aircraft    generates lift. The curved upper surface of the
 
 
 19                  1.3 HOW AIRPLANES FLY
-             WEIGHT IN
+             WEIGHT IN
            AERODYNAMICS
 How is weight used in
 flight?
@@ -878,7 +827,7 @@ safe during flight.                                                 is drag.
 
 
                        1.3 HOW AIRPLANES FLY                                20
-              APPLICATION
+              APPLICATION
       HOW TO BUILD A HOMEMADE KITE!
 
 
@@ -918,7 +867,7 @@ the rods at the edges.
 
 
 21                1.3 HOW AIRPLANES FLY
-             APPLICATION
+             APPLICATION
      HOW TO BUILD A HOMEMADE KITE!
 
 
@@ -957,7 +906,7 @@ and glue it down to create a neat edge.
 
 
                 1.3 HOW AIRPLANES FLY                               22
-THOUGHT PROVOKING
+THOUGHT PROVOKING
   How does differences in air temperature
       affect the balance of a plane?
                                   Lift
@@ -989,7 +938,7 @@ vulnerable to wind shears?
 
 
 23        1.3 HOW AIRPLANES FLY
-    1.4 AIR PRESSURE
+    1.4 AIR PRESSURE
 How does air pressure play a role in planes?
 
 
@@ -1023,7 +972,7 @@ How does air pressure play a role in planes?
 
 
                    1.4 AIR PRESSURE                        24
-            WHAT DOES
+            WHAT DOES
           PRESSURE MEAN
                         The general definition of pressure is the force
   PRESSURE              applied perpendicular to the surface of an
@@ -1062,7 +1011,7 @@ How does air pressure play a role in planes?
 
 25                     1.4 AIR PRESSURE
 By. XXX
-          WINDOW SHAPE
+          WINDOW SHAPE
   How does oval shape windows help
   with cabin air pressure?
 Today airplanes use oval-shaped windows because they are really good
@@ -1099,7 +1048,7 @@ edges to make the airplane fly efficiently.
 
 
                        1.4 AIR PRESSURE                              26
-            CALCULATING
+            CALCULATING
              PRESSURE
 Having a normal pressure reading in
 the cabin is extremely important to
@@ -1138,7 +1087,7 @@ the oxygen masks get deployed.
 
 
 27                      1.4 AIR PRESSURE
-        PRESSURE VS AIR
+        PRESSURE VS AIR
          TEMPERATURE
  How does air temperature effect cabin
  pressure?       Even the temperature of the air plays
@@ -1171,7 +1120,7 @@ flight to water flow in pipes.
 
 
                       1.4 AIR PRESSURE                                28
-           LANDING GEAR
+           LANDING GEAR
  What is a landing gear on planes?
                                 The landing gear is the wheels attached
                                 to a plane to help move from one place
@@ -1207,7 +1156,7 @@ soft landing.
 
 
 29                     1.4 AIR PRESSURE
-THOUGHT PROVOKING
+THOUGHT PROVOKING
 
 Why is there a layer of
 plastic material inside
@@ -1232,7 +1181,7 @@ same when you reach a high
 
 
                                        30
-THOUGHT PROVOKING
+THOUGHT PROVOKING
 
              What happens to
              air pressure and
@@ -1257,7 +1206,7 @@ pressure and how does
 it work?
 
 31       1.4 AIR PRESSURE
-   1.5 SUSTAINABLE
+   1.5 SUSTAINABLE
        AVIATION
 What are the benefits of airplanes and
  how are they constantly evolving?
@@ -1288,7 +1237,7 @@ Engine
 
 
          1.5 SUSTAINABLE AVIATION                    32
-HISTORY OF AVIATION
+HISTORY OF AVIATION
 WRIGHT FLYER
 The Wright Flyer flight on December 17,
 1903, is widely recognized as the first
@@ -1324,7 +1273,7 @@ aviation.
 
 
 33              1.5 SUSTAINABLE AVIATION
- HISTORY OF AVIATION
+ HISTORY OF AVIATION
 FIRST SUPERSONIC FLIGHT
 In 1947 the United States Air Force chose
 Chuck Yeager to fly the Bell X-1, the
@@ -1363,7 +1312,7 @@ footsteps.
 
 
                     1.5 SUSTAINABLE AVIATION                          34
-               EVOLUTION OF
+               EVOLUTION OF
                  AVIATION
   COMPUTER TECHNOLOGY
 In the 1960s, computer technology began
@@ -1402,7 +1351,7 @@ the aviation industry.
 
 
 35            1.5 SUSTAINABLE AVIATION
-             EVOLUTION OF
+             EVOLUTION OF
                AVIATION
         CARBON FIBER
 One objective of airplane design is
@@ -1437,7 +1386,7 @@ so widespread today.
 
 
                   1.5 SUSTAINABLE AVIATION                          36
- AVIATION IN SOCIETY
+ AVIATION IN SOCIETY
             BENEFITS OF MODERN AVIATION
                 Over 1 billion passengers a year
   Safety and efficiency optimized through GPS and navigation
@@ -1472,7 +1421,7 @@ aircraft.
 
 
 37            1.5 SUSTAINABLE AVIATION
-            APPLICATION
+            APPLICATION
                  PARACHUTE EXPERIMENT
 Create a small parachute using materials such as plastic bags or
 tissue paper. Attach a weight, such as a small toy, to the
@@ -1506,7 +1455,7 @@ efficiency of the descent.
 
 
                 1.5 SUSTAINABLE AVIATION                   38
-THOUGHT PROVOKING
+THOUGHT PROVOKING
  WHY IS IT IMPORTANT FOR AIRPLANES TO BE
               FUEL EFFICIENT?
  Think about what would happen if airplanes consumed much more
@@ -1542,7 +1491,7 @@ Commercial                                  28.3%
 
 
 39              1.5 SUSTAINABLE AVIATION
-     1.6 APPLYING TO
+     1.6 APPLYING TO
         AIRPLANES
 WHAT ARE FORCES AND WHY DO THEY MATTER?
 
@@ -1574,7 +1523,7 @@ WHAT ARE FORCES AND WHY DO THEY MATTER?
 
 
            1.6 APPLYING TO AIRPLANES                        40
-       IMPORTANCE OF
+       IMPORTANCE OF
       PAPER AIRPLANES
  WHAT ARE THEY FOR?
  Airplanes are vital for global connectivity, trade, and tourism,
@@ -1606,7 +1555,7 @@ air.
 
 
 41           1.6 APPLYING TO AIRPLANES
-  FACTORS AFFECTING
+  FACTORS AFFECTING
    PAPER AIRPLANES
                                      Wingspan
                                      The wingspan of paper airplanes affects
@@ -1639,7 +1588,7 @@ distance-traveling abilities.
                                                               Pointed Tip
 
                   1.6 APPLYING TO AIRPLANES                                    42
-  FACTORS AFFECTING
+  FACTORS AFFECTING
    PAPER AIRPLANES
                                                Weight
                                       The weight of a paper airplane has
@@ -1678,7 +1627,7 @@ altitude, stability, and control.
 
 
 43           1.6 APPLYING TO AIRPLANES
-      FORMER RECORD
+      FORMER RECORD
     AIRPLANE DISTANCE
 
 
@@ -1707,7 +1656,7 @@ properly or else you                              so that each side
 
 
                   1.6 APPLYING TO AIRPLANES                   44
-      FORMER RECORD
+      FORMER RECORD
     AIRPLANE DISTANCE
 
 
@@ -1738,7 +1687,7 @@ activity.
 
 
 45            1.6 APPLYING TO AIRPLANES
-   FORMER RECORD
+   FORMER RECORD
  AIRPLANE DISTANCE
     EXPLANATION
 The primary design, weight     John Collins' World Record Paper
@@ -1774,7 +1723,7 @@ wind speed and direction.
 
 
                1.6 APPLYING TO AIRPLANES                         46
-THOUGHT PROVOKING
+THOUGHT PROVOKING
   Can the principles of paper airplane
 design be applied to real aircraft design?
 
@@ -1794,7 +1743,7 @@ distance, speed, or
      accuracy?
 
 47      1.6 APPLYING TO AIRPLANES
-  FLOW OF
+  FLOW OF
 ELECTRICITY
 
 
@@ -1803,7 +1752,7 @@ ELECTRICITY
    CHECK OUT
   OUR YOUTUBE
    CHANNEL!
-       2.1 ELECTRICITY
+       2.1 ELECTRICITY
 What is electricity and how is it used?
 
 Questions of the day:
@@ -1834,7 +1783,7 @@ Keywords
 
 
 49                 2.1 ELECTRICITY
-   FLOW OF ELECTRICITY
+   FLOW OF ELECTRICITY
                     What is the flow of electricity?
                     Similarly to how water flows in pipes, electricity
                     flows through its own type of pipes. Wires,
@@ -1869,7 +1818,7 @@ them work.
 
 
                          2.1 ELECTRICITY                             50
- PROTONS, ELECTRONS,
+ PROTONS, ELECTRONS,
     AND NEUTRONS
 The flow of electrons in the flow of electricity is
 called electric current. Electric current is measured
@@ -1907,7 +1856,7 @@ charged.
 
 
 51                       2.1 ELECTRICITY
-PROTONS, ELECTRONS,
+PROTONS, ELECTRONS,
    AND NEUTRONS
 This relationship between electrons, protons,
 and the flow of electricity can be understood
@@ -1936,7 +1885,7 @@ charged.
 
 
                         2.1 ELECTRICITY                              52
-         CONDUCTORS AND
+         CONDUCTORS AND
            INSULATORS
               Conductors                     Insulators
                 Copper                       Rubber
@@ -1962,7 +1911,7 @@ silver.
 
 
 53                      2.1 ELECTRICITY
-                    LIGHTNING
+                    LIGHTNING
 
 Why does Lightning Occur?
 Lightning occurs when there is a buildup of
@@ -1998,7 +1947,7 @@ lightning strikes.                       continues to shape the future.
 
 
                          2.1 ELECTRICITY                               54
-           APPLICATION
+           APPLICATION
 
 Steps needed:
 Supplies needed:
@@ -2017,7 +1966,7 @@ A sink and a comb or a balloon
 
 
 55                2.1 ELECTRICITY
-               APPLICATION
+               APPLICATION
 Why this works?
 Atoms are made up of protons with a positive charge, neutrons with no
 charge, and electrons with a negative charge. Typically, the positive and
@@ -2050,7 +1999,7 @@ also be problematic in certain situations. For example:
 
 
                          2.1 ELECTRICITY                              56
- THOUGHT PROVOKING
+ THOUGHT PROVOKING
 
  Can the flow of electricity be used to create new
        forms of art, music, and expression?
@@ -2073,7 +2022,7 @@ renewable sources, what are the ways we can make it
 
 
 57               2.1 ELECTRICITY
-              2.2 MAGNET
+              2.2 MAGNET
 
 Questions of the day
                    How can you magnetize a
@@ -2106,7 +2055,7 @@ Keywords
 59              2.2
                 2.2 MAGNET
                     MAGNET                        58
-           HISTORY BEHIND
+           HISTORY BEHIND
               MAGNETS
                              It was discovered that certain stones,
                              known as lodestones, could attract iron at
@@ -2144,7 +2093,7 @@ crucial area for study and innovation.
 
 
  59                      2.1 ELECTRICITY
-         HOW DO MAGNETIC
+         HOW DO MAGNETIC
           FIELDS BEHAVE
                     What is a magnetic field?
                     Magnetic fields are invisible force fields that surround
@@ -2185,7 +2134,7 @@ telecommunications.
 59                           2.2
                              2.2 MAGNET
                                  MAGNET                                60
-         MAGNETISM AND
+         MAGNETISM AND
            THE EARTH
                                                 Molten Iron
 
@@ -2220,7 +2169,7 @@ heated by the planet's internal processes.
 
 
 61                         2.2 MAGNET
-       WHAT MATERIALS
+       WHAT MATERIALS
         ARE MAGNETIC
 Some basic materials are magnetic.
 Examples include iron, nickel, and
@@ -2255,7 +2204,7 @@ field.
 59                        2.2
                           2.2 MAGNET
                               MAGNET                             62
-     TYPES OF MAGNETS
+     TYPES OF MAGNETS
 The strongest permanent magnets now on Earth
 are neodymium iron boron (NdFeB) magnets.
 They are created by adding neodymium, iron, and
@@ -2285,7 +2234,7 @@ and rubber, do not possess magnetic characteristics.
 
 
 63                         2.2 MAGNET
-             APPLICATION
+             APPLICATION
 Magnetic Fields Experiment:
                                            BAR MAGNET
  1. You will need a bar magnet
@@ -2316,7 +2265,7 @@ Magnetic Fields Experiment:
 59                      2.2
                         2.2 MAGNET
                             MAGNET                        64
-  THOUGHT PROVOKING
+  THOUGHT PROVOKING
  Can magnets be used to create sustainable
              energy sources?
 
@@ -2338,7 +2287,7 @@ have for the environment?
 
 
 65                2.2 MAGNET
-             2.3 HOW DO
+             2.3 HOW DO
            CIRCUITS WORK
   How does a electric circuit work and where are
                   they found?
@@ -2371,7 +2320,7 @@ Bulb
 
 
             2.3 HOW DO CIRCUITS WORK              66
-    CIRCUITS: THE FLOW
+    CIRCUITS: THE FLOW
       OF ELECTRICITY
                      What is a circuit?
                      An electric circuit is a closed loop that electricity
@@ -2407,7 +2356,7 @@ through quickly.
 
 
 67               2.3 HOW DO CIRCUITS WORK
-          COMPONENTS OF
+          COMPONENTS OF
              CIRCUIT
                     The battery is the primary power source for the
 
@@ -2449,7 +2398,7 @@ disturbed, and the circuit becomes open.
 
 
                  2.3 HOW DO CIRCUITS WORK                              68
-             CIRCUIT TYPES
+             CIRCUIT TYPES
 
                              What is a Series Circuit?
                              The series-type circuit lives up to its name.
@@ -2485,7 +2434,7 @@ which stresses the battery.
 
 
 69               2.3 HOW DO CIRCUITS WORK
-       ALTERNATING AND
+       ALTERNATING AND
        DIRECT CURRENT
 What is Alternating Current?
  Alternating Current          An alternating current is where the
@@ -2520,7 +2469,7 @@ current is regularly used for electronics.
 
 
                 2.3 HOW DO CIRCUITS WORK                           70
-   SAFETY COMPONENTS
+   SAFETY COMPONENTS
 What is a Electric Fuse?
 Unlike light switches, fuses are safety components of
 every major circuit. It prevents damage to electrical
@@ -2556,7 +2505,7 @@ appliance will get ruined.
 
 
 71               2.3 HOW DO CIRCUITS WORK
-          APPLICATION
+          APPLICATION
 
 Using just batteries, wires, an LED, and a switch,
 build both a parallel and series circuit using what
@@ -2577,7 +2526,7 @@ likely to be used in real-life settings?
 
 
            2.3 HOW DO CIRCUITS WORK            72
- THOUGHT PROVOKING
+ THOUGHT PROVOKING
 In the given pictures below, which object is
    most likely to use alternating current?
 
@@ -2597,7 +2546,7 @@ Why is a plastic material used commonly in
                          current?
 
 73        2.3 HOW DO CIRCUITS WORK
-             2.4 CIRCUITS
+             2.4 CIRCUITS
  How do electricity and magnets play a role in our
                       lives?
 
@@ -2629,7 +2578,7 @@ Negative
 
 
                   2.4 CIRCUITS                    74
-         APPLICATIONS OF
+         APPLICATIONS OF
             CIRCUITS
 Circuits in our Daily Lives
 Now, you might be wondering, how does a circuit affect us?
@@ -2660,7 +2609,7 @@ it this far in the first place!
 
 
 75                        2.4 CIRCUITS
-         APPLICATIONS OF
+         APPLICATIONS OF
             CIRCUITS
   Magnets in Nature & their Applications
               There are only a few natural magnets in nature. Although
@@ -2693,7 +2642,7 @@ magnets.
 
 
                               2.4 CIRCUITS                           76
-   CIRCUITS & MAGNETS:
+   CIRCUITS & MAGNETS:
       RELATIONSHIPS
 Their Mutual Connection
 Electricity and Magnetism are closely related. They have an
@@ -2713,7 +2662,7 @@ to run on.
 
 
 77                      2.4 CIRCUITS
-   ELECTROMAGNETISM
+   ELECTROMAGNETISM
 The Combination
 What happens when a magnetic field and an electric field combine?
 Well, you get something called electromagnetism. This force is one of
@@ -2752,7 +2701,7 @@ internet, speakers, and so much more!
 
 
                             2.4 CIRCUITS                            78
-          APPLICATION
+          APPLICATION
 
 Explain how magnetic force plays a major role in
 electric motors.
@@ -2767,7 +2716,7 @@ sailors to their destinations in the olden days?
 
 
 79                2.4 CIRCUITS
- THOUGHT PROVOKING
+ THOUGHT PROVOKING
 
            Which is stronger?
 
@@ -2785,7 +2734,7 @@ Is an electromagnet or a magnet stronger?
 
 
                 2.4 CIRCUITS             80
- 2.5 ELECTROMAGNETS
+ 2.5 ELECTROMAGNETS
  What are electromagnets and how are they made?
 
 
@@ -2820,7 +2769,7 @@ Field
 
 
 81              2.5 ELECTROMAGNETS
-           HISTORY OF THE
+           HISTORY OF THE
               COMPASS
                                   Compass
                        By definition, a compass is a magnet that
@@ -2855,7 +2804,7 @@ forces, which attract the metal to the magnet.
 
 
                    2.5 ELECTROMAGNETS                           82
- HOW COMPASS WORKS
+ HOW COMPASS WORKS
 
 
 
@@ -2886,7 +2835,7 @@ pole will be on the South pole!
 
 
 83                    2.5 ELECTROMAGNETS
-      ELECTROMAGNETS:
+      ELECTROMAGNETS:
        WHAT ARE THEY?
 An electromagnet is a magnet made out
 of electricity. A simple electromagnet
@@ -2923,7 +2872,7 @@ electromagnet.
 
 
                      2.5 ELECTROMAGNETS                              84
-      ELECTROMAGNETS:
+      ELECTROMAGNETS:
           EXAMPLES
 Common items that use                           The electromagnet
 electromagnets:                                  in the microwave
@@ -2954,7 +2903,7 @@ interact with the magnetic field generated by the electromagnet.
 
 
 85                  2.5 ELECTROMAGNETS
-        BUILDING AN
+        BUILDING AN
       ELECTROMAGNET
 Materials:
    wire
@@ -2980,7 +2929,7 @@ Directions:
 
 
                2.5 ELECTROMAGNETS   86
-    BUILDING A COMPASS
+    BUILDING A COMPASS
 
      THE HIKER'S DILEMMA
                                 John was hiking through the woods
@@ -3013,7 +2962,7 @@ Step 1: Take the cork and cut off
 
 
 87                  2.5 ELECTROMAGNETS
- THOUGHT PROVOKING
+ THOUGHT PROVOKING
 
 What causes Earth's
   Magnetic pole to
@@ -3034,7 +2983,7 @@ the electromagnet.
        help!
 
           2.5 ELECTROMAGNETS      88
- 2.6 PENNY BATTERIES
+ 2.6 PENNY BATTERIES
      What makes a penny such a good battery?
 
 
@@ -3067,7 +3016,7 @@ Scissors
 
 
 89            2.6 PENNY BATTERIES
-         ELECTRICITY AND
+         ELECTRICITY AND
             BATTERIES
 What is Electricity?
 Electricity is a form of energy resulting from the
@@ -3101,7 +3050,7 @@ be much more challenging and inefficient.
 
 
                        2.6 PENNY BATTERIES                       90
-       WHAT IS A PENNY
+       WHAT IS A PENNY
          BATTERY?
 Penny Batteries
 Penny batteries, also known as voltaic cells,
@@ -3143,7 +3092,7 @@ amount of electricity.
 
 
 91                  2.6 PENNY BATTERIES
-        CAPABILITIES AND
+        CAPABILITIES AND
             SAFETY
 Uses of a Penny Battery
 Although penny batteries are not very powerful, they can still be used
@@ -3174,7 +3123,7 @@ yourself on how to respond quickly and safely if an accident occurs.
 
 
                        2.6 PENNY BATTERIES                          92
-        BUILDING A PENNY
+        BUILDING A PENNY
             BATTERY
                          Materials
         Five pennies (after 1982 pennies), mat board, a
@@ -3206,7 +3155,7 @@ board into 4 separate 1/2-inch squares.
 
 
 93                  2.6 PENNY BATTERIES
-        BUILDING A PENNY
+        BUILDING A PENNY
             BATTERY
 3. Take one of your sanded pennies with the
 zinc side facing up (copper side down), and
@@ -3242,7 +3191,7 @@ this experiment.
 
 
                      2.6 PENNY BATTERIES                          94
-     APPLICATION
+     APPLICATION
 
               Suppose you live in a
              rural area with limited
@@ -3260,7 +3209,7 @@ What materials would you use
 
 
 95     2.6 PENNY BATTERIES
- THOUGHT PROVOKING
+ THOUGHT PROVOKING
 How can the principles behind the penny battery
     be applied to other fields of science or
                  engineering?
@@ -3286,8 +3235,8 @@ famous or new inventions where
 
 
               2.6 PENNY BATTERIES           96
-Page Intentionally left blank
-OBJECTS IN
+Page Intentionally left blank
+OBJECTS IN
  MOTION
 
 
@@ -3296,7 +3245,7 @@ famous or new inventions where
    CHECK OUT
   OUR YOUTUBE
    CHANNEL!
- 3.1 NEWTONS LAWS
+ 3.1 NEWTONS LAWS
 What are Newtons Laws and how do they
        appear in today's society
 
@@ -3329,7 +3278,7 @@ What are Newtons Laws and how do they
 
 
 98              3.1 NEWTONS LAWS
-         ISAAC NEWTON
+         ISAAC NEWTON
 
                               Isaac Newton, born in England in
                               1643, is famous for his contributions
@@ -3358,7 +3307,7 @@ doesn't effect how much gravity the object experiences.
 
 
                    3.1 NEWTONS LAWS                                99
-          THE FIRST LAW
+          THE FIRST LAW
 An object at rest stays at rest, and an object in motion
  will stay in motion unless acted upon by a net force.
         Before:                                    After:
@@ -3390,7 +3339,7 @@ consider, for example, a golf ball in space.
 
 
 100                  3.1 NEWTONS LAWS
-      THE SECOND LAW
+      THE SECOND LAW
   Newton's Second Law: Force = Mass * Acceleration
 
 Important Definitions
@@ -3427,7 +3376,7 @@ force comes out to be 225 N!
 
 
                    3.1 NEWTONS LAWS                              101
-          THE THIRD LAW
+          THE THIRD LAW
        For every action force, there is an equal and
                  opposite reaction force.
 Newton's Third Law states that when two objects collide or touch, the
@@ -3462,7 +3411,7 @@ rest.
 
 
 102                  3.1 NEWTONS LAWS
-      PENNY DROP LAB
+      PENNY DROP LAB
     Essential Question: How does varying the applied
   force/acceleration on a system change the outcome
        when friction is present in the experiment.
@@ -3494,7 +3443,7 @@ Why did the pennies move as                         Pull
 
 
                    3.1 NEWTONS LAWS                       103
-THOUGHT PROVOKING
+THOUGHT PROVOKING
 
 In real life, objects that hit projectiles have recoil,
 backward propulsion that occurs in response to a
@@ -3517,7 +3466,7 @@ of 400 m/s^2.
 
 
 104            3.1 NEWTONS LAWS
-3.2 TYPES OF ENERGY
+3.2 TYPES OF ENERGY
 
 What are the different types of energy in
               our world?
@@ -3550,7 +3499,7 @@ Questions of the day
 
 
                 3.2 TYPES OF ENERGY                   105
-      WHAT IS ENERGY?
+      WHAT IS ENERGY?
     Energy                 By definition, energy is the capacity to do
                            work. It exists in various forms, such as kinetic
                            energy, potential energy, and elastic energy.
@@ -3589,7 +3538,7 @@ Since Sheldon here has     possesses energy.
 
 
 106                      3.2 TYPES OF ENERGY
-      KINETIC ENERGY
+      KINETIC ENERGY
  Kinetic energy can be defined as the energy an object possesses
  due to its motion, and it varies based on the object's mass. For
  example, a runner possesses kinetic energy because they are in
@@ -3625,7 +3574,7 @@ Example:
 
 
                   3.2 TYPES OF ENERGY                         107
-  POTENTIAL ENERGY
+  POTENTIAL ENERGY
 Potential energy can be defined as the energy stored in an object
 based on its position and mass. It is often understood as the energy
 that can be converted into another form. For example, when a
@@ -3655,7 +3604,7 @@ higher elevation than Jenna, he has more potential energy.
 
 
 108               3.2 TYPES OF ENERGY
-       ELASTIC ENERGY
+       ELASTIC ENERGY
 Elastic energy, also known as spring potential energy, can be defined
 as the energy stored in an object when it is being stretched or
 compressed. For instance, a stretched rubber band possesses elastic
@@ -3689,7 +3638,7 @@ Example:                                              itself)
 
 
                    3.2 TYPES OF ENERGY                         109
- CHANGES IN ENERGY
+ CHANGES IN ENERGY
 While energy cannot be created or destroyed, it can be transformed
 into another type of energy. For instance, potential energy can be
 converted into kinetic energy and kinetic energy can be reverted
@@ -3719,7 +3668,7 @@ potential energy once it hits the ground.
 
 
 110                3.2 TYPES OF ENERGY
-              APPLICATION
+              APPLICATION
       Experiment#1:                     Experiment#2:
       Elastic Energy                    Kinetic Energy
 1. Take any rubber band               1. Stand on a scale (mass)
@@ -3748,7 +3697,7 @@ potential energy once it hits the ground.
 
 
                    3.2 TYPES OF ENERGY                             111
-THOUGHT PROVOKING
+THOUGHT PROVOKING
 
                        If Sheldon, who has a
                        weight of 28.0 N, jumps
@@ -3773,7 +3722,7 @@ potential energy once it hits the ground.
 
 
 112           3.2 TYPES OF ENERGY
-   3.3 SYSTEMS AND
+   3.3 SYSTEMS AND
       REFERENCES
      What is the importance of
  understanding the scope of motion?
@@ -3806,7 +3755,7 @@ Key words
 
 
                3.3 SYSTEMS AND REFERENCES          113
-                  SYSTEMS
+                  SYSTEMS
 A system can be defined as a collection of objects. Let's consider
 the pencil box that you take to school. If I were to ask you what
 objects the pencil box system contains, you would list items like
@@ -3843,7 +3792,7 @@ individual items themselves.
 
 
 114 3.3 SYSTEMS AND REFERENCES
-                     SYSTEMS
+                     SYSTEMS
 Look at the unknown system on the
 right. The objects belonging to the
                                               Parts of the System
@@ -3881,7 +3830,7 @@ moving characters trying to beat each other and get the win.
 
 
                   3.3 SYSTEMS AND REFERENCES                  115
-  TYPES OF SYSTEMS
+  TYPES OF SYSTEMS
  CLOSED SYSTEMS
  Closed systems are systems in which matter is contained and not
  allowed to exit the system. The universe serves as an example of a
@@ -3918,7 +3867,7 @@ moving characters trying to beat each other and get the win.
 
 
 116 3.3 SYSTEMS AND REFERENCES
-               REFERENCES
+               REFERENCES
 
                          References
                          Reference is a strange concept to grasp.
@@ -3954,7 +3903,7 @@ difference in their speeds.
 
 
                   3.3 SYSTEMS AND REFERENCES                      117
- REFERENCES (CONT.)
+ REFERENCES (CONT.)
 
 Directional References
 The first step to solving any physics problem is choosing a
@@ -3985,7 +3934,7 @@ calculation friendly.
 
 
 118 3.3 SYSTEMS AND REFERENCES
-           APPLICATION
+           APPLICATION
 
 A spring with a mass
 attached to it is hanging off
@@ -4017,7 +3966,7 @@ Sun
 
 
               3.3 SYSTEMS AND REFERENCES             119
-THOUGHT PROVOKING
+THOUGHT PROVOKING
 
  A car is moving at 50 m/s in a straight line around
  the circumference of the Earth. Describe what
@@ -4046,7 +3995,7 @@ Sun
 
 
 120 3.3 SYSTEMS AND REFERENCES
-      3.4 MACHINES
+      3.4 MACHINES
    What are machines and what are the
         mechanics behind them?
 
@@ -4080,7 +4029,7 @@ Wedge
 
 
              3.4 MACHINES                       121
-               WHAT ARE
+               WHAT ARE
                MACHINES?
 By definition, machines are physical systems or devices that use
 power to apply force and control movement to an object. There
@@ -4119,7 +4068,7 @@ such as automobiles and lawnmowers.
 
 
 122                    3.4 MACHINES
- TYPES OF MACHINES
+ TYPES OF MACHINES
 What is a Simple Machine?
 Simple machines are mechanical devices that help apply a force to
 modify motion and perform work
@@ -4153,7 +4102,7 @@ occupations.
 
 
                        3.4 MACHINES                            123
-   HOW DO MACHINES
+   HOW DO MACHINES
         WORK?
 Although machines may seem complex, they are often just a bunch
 of simple machines working together. Each and every complex
@@ -4180,7 +4129,7 @@ behind this, but that is also relatively easy to understand.
 
 
 124                    3.4 MACHINES
-THE PHYSICS BEHIND
+THE PHYSICS BEHIND
      MACHINES
  Momentum and Torque
  Momentum is the amount of strength or force an object gets as it
@@ -4210,7 +4159,7 @@ Wheel and Axis                  Car Engine                   Motor
 
 
                          3.4 MACHINES                              125
-       CONSTRUCTING A
+       CONSTRUCTING A
           MACHINE
 Constructing a machine is not exceedingly difficult. It primarily
 necessitates applying the physics principles mentioned earlier and
@@ -4250,7 +4199,7 @@ straightforward.
 
 
 126                         3.4 MACHINES
-             APPLICATION
+             APPLICATION
              Make a homemade scale!
           Materials: 2 paper cups, a small flat
            piece of wood, and a binder clip
@@ -4283,7 +4232,7 @@ similar to this!
 
 
                          3.4 MACHINES             127
-THOUGHT PROVOKING
+THOUGHT PROVOKING
  Which one is a more efficient machine and why?
 
 
@@ -4309,7 +4258,7 @@ Why are you able to bounce back
 
 
 128              3.4 MACHINES
-   3.5 CARS ON A ROLL
+   3.5 CARS ON A ROLL
         GRAVITY
 How do forces change a car's motion?
 
@@ -4340,7 +4289,7 @@ Center-of-gravity
 
 
                 3.5 CARS ON A ROLL GRAVITY   129
-      HOW CAN A CAR
+      HOW CAN A CAR
     CHANGE ITS FORCE?
                                Recap on Velocity,
     Gravity
@@ -4378,7 +4327,7 @@ speeding up or slowing down as well.                             GRAVITY
 
 
                         3.5 CARS ON A ROLL GRAVITY                       130
-WHAT IS ROLL FORCE?
+WHAT IS ROLL FORCE?
 
     Types of Motion
 Cars can exhibit two types of motion:
@@ -4418,7 +4367,7 @@ Inertia Is also the reason why
 
 
 131          3.5 CARS ON A ROLL GRAVITY
-            EXPERIMENT
+            EXPERIMENT
 
 Materials:
    Small Sphere (marble, ping-pong
@@ -4446,7 +4395,7 @@ Procedure:
 
 
              3.5 CARS ON A ROLL GRAVITY   132
-HOW CAN WE CHANGE
+HOW CAN WE CHANGE
    ROLL FORCE?
 Roll force can be influenced by various
 factors, particularly in the context of a
@@ -4482,7 +4431,7 @@ energy to keep the tire rolling.
 
 
 133            3.5 CARS ON A ROLL GRAVITY
-HOW CAN WE CHANGE
+HOW CAN WE CHANGE
    ROLL FORCE?
                       When an object rolls down a ramp,
                       converting potential energy to kinetic
@@ -4522,7 +4471,7 @@ ROTATIONAL
 
 
             3.5 CARS ON A ROLL GRAVITY                       134
-THOUGHT PROVOKING
+THOUGHT PROVOKING
 
  What would reach the bottom of the ramp first?
  (same mass and ramp)
@@ -4550,7 +4499,7 @@ alongside a curve?
 
 
 135    3.5 CARS ON A ROLL GRAVITY
-            3.6 ROLLER
+            3.6 ROLLER
             COASTERS
  What do builders have to consider to
       garuntee a rider's safety?
@@ -4583,7 +4532,7 @@ CREST
 
 
             3.6 ROLLER COASTERS                  136
- ROLLER COASTERS IN
+ ROLLER COASTERS IN
       MOTION
 Roller coasters are driven by one of the most important forces existing;
 gravity. As noticed, roller coasters begin at one of the lowest points on a
@@ -4614,7 +4563,7 @@ principles that must be kept in mind when building a roller coaster.
 
 
                     3.6 ROLLER COASTERS                             137
-  ROLLER COASTERS IN
+  ROLLER COASTERS IN
        MOTION
      Why does the amount of energy in a
               system matter?
@@ -4652,7 +4601,7 @@ the roller coaster can travel.
 
 
 138                 3.6 ROLLER COASTERS
-      HOW ARE ROLLER
+      HOW ARE ROLLER
       COASTERS BUILT?
                                    The only exception to this is when extra
                                    energy is added to the cars. This happens
@@ -4691,7 +4640,7 @@ equal to both gravity's and
 
 
 139                  3.6 ROLLER COASTERS
-    BUILDING A MODEL
+    BUILDING A MODEL
      ROLLER COASTER
 Building a roller coaster may seem complex at first, but the logic
 behind it is simple. The main rule to follow is that the highest point
@@ -4732,7 +4681,7 @@ of a roller coaster is the starting point.
 
 
                   3.6 ROLLER COASTERS                              140
-      ELEMENTS OF OUR
+      ELEMENTS OF OUR
       ROLLER COASTER
 One important science to roller coasters
 is the force acting on each person. At the
@@ -4772,7 +4721,7 @@ a rider at the same time.
 
 
 141              3.6 ROLLER COASTERS
-  APPLYING ROLLER
+  APPLYING ROLLER
 COASTER KNOWLEDGE
                        Rider's situation
                       A rider gets on the roller coaster
@@ -4796,7 +4745,7 @@ Explain how you would feel at the top of
 a rollercoaster compared to the bottom.
 
            3.6 ROLLER COASTERS                   142
-THOUGHT PROVOKING
+THOUGHT PROVOKING
       Which roller coaster would reach
                 the end first?
 
@@ -4825,64 +4774,3 @@ still won't derail through a loop?
 
 
 
-143              3.6 ROLLER COASTERS
-              THANK YOU
-  We would like to express our heartfelt gratitude to all
-     those who have made the creation of this book,
-       "Science and Beyond," possible. Through the
-     collaborative efforts of STEM Made Fun and the
-    dedicated individuals who contributed their time,
-expertise, and passion, we have aimed to make science
-   accessible, engaging, and enjoyable for young minds
-                        everywhere.
- To our Team of Volunteers: A special thank you to the
-  incredible team of volunteers who generously shared
-their knowledge and enthusiasm to help bring this book
-      to life. Your commitment to inspiring the next
- generation of STEM enthusiasts is truly commendable.
-   Without your hard work and dedication, this project
-                would not have been possible.
-   To the Contributing Authors and Experts: We extend
-  our deepest appreciation to the contributing authors
-and experts who generously shared their expertise and
-        insights within the pages of this book. Your
-contributions have provided invaluable knowledge and
-have helped foster a love for science among our young
- readers. Your passion for your respective fields shines
-        through and inspires curiosity and wonder.
-
-
-
-
-                                                    144
-              THANK YOU
- To the Parents, Educators, and Supporters: We would
-like to express our gratitude to the parents, educators,
- and supporters who have championed our cause and
-      believed in the power of STEM education. Your
-   unwavering support and encouragement have been
-  instrumental in our mission to make STEM education
-fun and accessible for all. Thank you for embracing the
- importance of science and for nurturing the curiosity
-  and potential of our future scientists, engineers, and
-                         innovators.
-To the Readers: Lastly, we extend a heartfelt thank you
-     to the young readers who have embarked on this
-    exciting scientific journey with us. Your curiosity,
- enthusiasm, and eagerness to explore the wonders of
-the world are the driving force behind STEM Made Fun.
-   We hope this book inspires you to embrace science,
-    dream big, and reach for the stars. Remember, the
- possibilities are limitless when you combine curiosity
-                      with knowledge!
-    Thank you all for being a part of STEM Made Fun's
-   mission to ignite a passion for science and beyond.
-  Together, we are shaping a brighter future where the
-           wonders of STEM are accessible to all.
-                With heartfelt appreciation,
-        Krishiv & Aashrith Founder, STEM Made Fun
-
-
-
-                                                   145
-
