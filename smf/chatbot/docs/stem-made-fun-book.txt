@@ -1,0 +1,4888 @@
+             COPYWRITE
+             Copyright © 2023 by STEM Made Fun
+
+
+     All rights reserved. No part of this publication may be
+ reproduced, distributed, or transmitted in any form or by any
+means, including photocopying, recording, or other electronic or
+mechanical methods, without the prior written permission of the
+ publisher, except in the case of brief quotations embodied in
+critical reviews and certain other noncommercial uses permitted
+                       by copyright law.
+
+
+ This book is a work of non-fiction. Unless otherwise noted, the
+ author and the publisher make no explicit guarantees as to the
+accuracy of the information contained in this book and will not
+        be held responsible for any errors or omissions.
+
+
+                 Published by STEMMADEFun
+            Printed in the United States of America.
+   For permission requests, write to the publisher, addressed
+  “Attention: Permissions Coordinator,” at the address below.
+                        4127 Bay Street,
+                  Fremont, California, 94539
+                   stemmadefun@gmail.com
+
+
+                        COPYWRITE
+  TABLE OF CONTENTS
+  PREFACE........................................................................I
+  ABOUT THE AUTHORS................................................II
+  CONTRIBUTORS ........................................................IV
+I. UNIT 1: EXPERIENCE THE FORCE...............................1
+  1.1: Gravity....................................................................................2
+  1.2: Friction + Air..........................................................................8
+  1.3: How Airplanes Fly...............................................................16
+  1.4: Air Pressure.........................................................................24
+  1.5: Sustainable Aviation..........................................................32
+  1.6: Applying to Airplanes........................................................40
+
+II. UNIT 2: FLOW OF ELECTRICITY................................48
+  2.1: Electricity.............................................................................49
+  2.2: Magnet..................................................................................58
+  2.3: How Circuits Work..............................................................66
+  2.4: Applications.........................................................................74
+  2.5: Electromagnets...................................................................81
+  2.6: Penny Batteries..................................................................89
+
+III. UNIT 3: OBJECTS IN MOTION.................................97
+  3.1: Newton's Laws....................................................................98
+  3.2: Types of Energy................................................................105
+  3.3: Systems and References.................................................113
+  3.4: Machines............................................................................121
+  3.5: Cars on a Roll Gravity......................................................129
+  3.6: Roller Coasters.................................................................136
+
+
+                          TABLE OF CONTENTS
+                       PREFACE
+
+Stem Made Fun's Purpose
+Our mission at STEMMadeFun is to empower individuals with learning
+disabilities or underprivileged to reach their full potential in the fields of
+science, technology, engineering, and mathematics through accessible
+and inclusive learning experiences that make STEM education fun and
+meaningful.
+We have made this book to provide universal access to an educational
+and entertaining journey through the world of STEM. This book, is a result
+of countless hours of dedication from our team of passionate educators,
+scientists, and designers. Our goal is to inspire curiosity, ignite a love for
+learning, and instill confidence in every reader, regardless of their
+background or abilities.
+We take readers on a captivating expedition, exploring various scientific
+concepts and phenomena in a way that is engaging, interactive, and
+inclusive. The book is carefully designed to cater to different learning
+styles, ensuring that each reader can fully participate and absorb the
+knowledge within.
+From the first page to the last, the book is bursting with vibrant
+illustrations, captivating stories, and hands-on experiments that bring
+STEM to life. Each chapter focuses on a specific scientific discipline, such
+as physics, biology, chemistry, or engineering, and presents the
+information in a fun and accessible manner.
+Throughout the book, readers will find intriguing puzzles, quizzes, and
+activities that reinforce the concepts they have learned. These interactive
+elements encourage active participation and critical thinking, making the
+learning process enjoyable and memorable.
+
+
+
+
+  I                   TABLE OF CONTENTS
+ ABOUT THE AUTHORS
+
+                             Aashrith Bandaru
+                                 Founder
+
+     Hello, I am Aashrith Bandaru. I'm an advocate for STEM education
+and an entrepreneurial leader from Fremont, California. Coming from
+the Bay Area, a place filled with technology and innovation, I have a
+deep interest in the intersection of data science and business. I started
+my STEM journey learning programming for web development and then
+expanded to Python and Java. After gaining substantial knowledge, I
+began teaching classes with GATE and continued deepening my
+understanding by focusing on data science, completing numerous
+Udemy courses in this field. Eventually, I became the president of the
+Data Science Club at Irvington High School.
+     To enhance my business skills, I joined DECA, an organization that
+hosts business competitions, and I won first place in VBC at their
+International Career Development Conference. My entrepreneurial
+journey includes founding Pawfect Petcare, a pet supply startup
+inspired by owning a dog and a passion for business.
+     My dedication to community service began with becoming a Boy
+Scout in 8th grade. The experiences and principles I gained from
+scouting led me to co-found STEM Made Fun, a 501c3 nonprofit
+organization. This organization combines my passion for STEM with a
+commitment to educational accessibility and community service.
+     Whether I'm walking my dog, studying data science, running a
+business, or working to enhance my community, my goal is always to
+make a positive, significant impact on the world around me.
+
+
+
+
+                     ABOUT THE AUTHORS                               II
+ ABOUT THE AUTHORS
+
+                              Krishiv Aggarwal
+                                  Founder
+
+       Hi I am Krishiv, from Fremont, California, with a strong interest in
+the fields of computers and engineering. Growing up in Silicon Valley
+with parents who hold master's degrees in STEM fields has provided me
+with extensive exposure to subjects relating to robotics and sciences
+and encouraged me to pursue knowledge in programming languages
+such as Python, web development (HTML, CSS, JavaScript), and C.
+Additionally my participation in the Aspiring Scholars Directed Research
+Program (ASDRP) has helped me delve deeper into the engineering
+aspect of these fields and solidified my interest in the subject.
+Currently, I am working on a project to create an automated chemical
+synthesizer using a UR5 robotic arm, with the aim of making drug
+discovery and development easier.
+      In addition to my academic pursuits, I am also dedicated to giving
+back to the community. I am the founder of STEM Made Fun (SMF), a
+nonprofit organization that brings STEM education to underprivileged
+and underrepresented communities. We host sessions in local schools
+where they don't have access to after-school programs and for
+disadvantaged girls in Noida, India. Our goal is to provide students
+without access to the same resources and opportunities we are
+fortunate to have growing up in Silicon Valley.
+       I am a proud Eagle Scout and have been in the Scout community
+since I was in fourth grade. Through Scouting, I have learned the
+importance of living by the principle of "doing a good turn daily" and
+making a positive impact on the world. Through my involvement in STEM
+education and community service, I aim to continue helping others to
+create a better future for all.
+
+
+  III                ABOUT THE AUTHORS
+    CONTRIBUTERS
+
+
+
+
+ Aariv A.      Anish J.     Arnav S.
+
+
+
+
+Justin L.     Karthik N. Karthik S.
+
+
+
+
+Prithvi M. Pratyush M.          Riti N.
+
+            ABOUT THE AUTHORS             IV
+    CONTRIBUTERS
+
+
+
+
+Rohith B. Saaeesh N.            Sai P.
+
+
+
+
+Sathvik L.     Sreyas Y.        Shaan P.
+
+
+
+
+Sujith S.      Tanuj K.         Varun C.
+
+V           ABOUT THE AUTHORS
+Page Intentionally left blank
+  EXPERIENCE
+   THE FORCE
+              LIFT
+
+
+
+
+DRAG                 THRUST
+
+
+
+
+           GRAVITY
+
+
+
+
+        CHECK OUT
+       OUR YOUTUBE
+        CHANNEL!
+           1.1 GRAVITY
+What are forces and why do they matter?
+
+                         Questions of
+                         the day:
+                        Why does an apple fall down from an
+                        apple tree?
+
+                        Why does a ball always come back
+                        down after being thrown up?
+
+                        Why do I fall back down when I jump?
+
+
+
+
+  KEY WORDS
+   Gravity
+   Attraction
+   Friction
+   Weight
+   Mass
+   Force
+   Apple
+   Gravitational
+   field
+
+
+
+
+                   1.1 GRAVITY                             2
+         INTRO TO GRAVITY
+      Gravity                       Gravity is defined as the force of attraction
+                                    between two objects. All objects on Earth
+                                    are attracted to Earth's center because of
+                                    gravity. For example, when a ball is thrown
+                                    up it comes back down because of its
+                                    attraction to the earth's center. When an
+                                    apple falls off a tree, it falls to the ground
+                                    due to gravity.
+                                    Every object has a gravitational force,
+                                    however, it is proportional to its mass.
+ Try throwing a tennis ball
+up. It will always come back
+                                    Objects with a larger mass have a more
+    down due to gravity.            significant force of attraction.
+
+
+
+              How Does Mass Affect Gravity?
+    Now, you might be wondering, what is mass? Mass is the amount of
+    matter in a physical object. Objects with large amounts of mass like
+    the sun, have stronger gravitational fields and are able to keep
+    planets in orbit.
+
+
+                                                  9.8 m/s^2 (unit              Human Mass:
+                                                    of gravity)                   60 kg
+                                                       down
+                                                                       Earth Mass:
+                                                                    5.972 × 10^24 kg
+
+
+
+
+                                                   The Earth is very large compared to a human
+        Fun Fact: The Sun's gravity has an            being with a mass of 5.972 × 10^24 kg
+    attractive force that is so strong it keeps   compared to a human's average mass of 60 kg
+         the entire solar system in orbit!                         (130 pounds).
+
+
+
+
+  3                                   1.1 GRAVITY
+  MASS AND WEIGHT
+
+
+
+Try dropping a baseball and tennis ball at the same time. Record
+the time the objects hit the ground. Visually these objects are
+roughly the same in size but are made from different materials
+and therefore have different masses. Your initial assumption may
+be that the baseball will hit the ground first due to a larger mass..
+However, the mass of an object does not affect when the ball hits
+the ground. The force of gravity creates constant acceleration for
+both objects resulting in both balls hitting the ground at the same
+time.
+
+
+
+   Mass VS Weight
+                  Mass is the measure of how much matter is in
+                  an object. For example, a filled water bottle
+                  would have a greater mass than an empty
+                  water bottle because there are more particles
+                  inside of it.
+
+                  Weight is the measure of gravitational force on
+                  an object. On most regions of Earth, the weight
+                  and mass of an object are the same, but for
+                  planets like Mercury with a lighter gravitational
+                  force, the weight would be much less than the
+                  mass.
+
+
+
+                        1.1 GRAVITY                                   4
+     WHY DO WE CARE
+     ABOUT "GRAVITY"
+ Have you ever thought of how beautiful
+ the nature around us is? Well, then you
+ have to thank Gravity. The only reason
+ raindrops fall to the ground is gravity
+ pulling them down. The only reason why
+ plants can survive is due to the rain. The
+ soil stays in the ground (most of it) and
+ does not fly away when the wind comes
+ due to gravity.
+
+
+
+
+                        The playground is also full of gravity. Have
+                        you ever gone down a slide before? Well, how
+                        do you go down, Gravity? Whenever you
+                        throw a ball, it comes down because of,
+                        Gravity. The only reason you come down on a
+                        slide is due to gravity Gravity. When you are
+                        playing on the swings, the reason why you do
+                        not start flying is because of Gravity.
+
+
+
+Have you ever been to a beach and seen
+waves crashing against the beach shore?
+Well believe it or not, there is a high chance
+those waves are caused by the gravity of
+the moon and the sun. As the Earth spins,
+some of the water is pulled by the gravity of
+the sun and moon and causes it to rise as a
+wave. Pretty cool right?
+
+
+
+
+5                         1.1 GRAVITY
+FINDING WEIGHT ON
+DIFFERENT PLANETS
+
+      The Astronaut's Dilemna
+                After being stranded in space our astronaut
+                has to land on a new planet. Before landing
+                on another planet, however, the astronaut
+               has to figure out his weight. Without knowing
+                  his weight, his movement can be varied
+                dependent on his weight on a planet. If the
+               astronaut weighs 150 lbs on Earth, how much
+                does the astronaut weigh on other planets?
+
+
+
+  Divide the
+ weight of the            Multiply by
+                          acceleration         Obtain Value for
+ astronaut on
+                          of gravity of         Weight on the
+earth by Earth's
+                           the planet            new Planet!
+  gravity (9.8
+    m/s^2)
+
+
+
+
+   Saturn                    Earth                 Mars
+                          9.8 m/s^2              3.7 m/s^2
+ 10.4 m/s^2
+
+                      1.1 GRAVITY                              6
+THOUGHT PROVOKING
+      What would hit the ground first?
+
+
+
+
+    A bullet dropped from 1 meter above the ground or
+    a bullet shot from a gun 1 meter off the ground?
+
+
+
+                             All of the planets in the
+                             solar system have gravity,
+                             so why do they not pull
+                             each other all together
+                             into a ball?
+
+
+
+
+             Does speed stay constant
+             when a car is taking a turn or
+             driving alongside a curve?
+
+
+
+
+7                   1.1 GRAVITY
+     1.2 FRICTION + AIR
+ What is friction and why is it important?
+
+                Questions of the day
+                 Why do different sports use different types
+                 of shoes? For example, why do soccer cleats
+                 have protruding stumps?
+
+
+  Why do you slip more in slippers compared
+  to tennis shoes.
+
+    How do different shoe grips affect your
+    movement? What about surface materials?
+
+
+
+
+  Key words
+  Friction
+  Air
+  Wind
+  Boat
+  Coefficient
+  Wood
+  Plane
+  Resistance
+  Traction
+
+
+
+
+                   1.2 FRICTION + AIR                          8
+By. XXX
+      WHAT IS FRICTION
+By definition, friction is a force that opposes the motion of two objects
+that are in contact. It exists in different forms, like kinetic friction,
+static friction, fluid friction, and rolling friction. Since friction is a
+force, it is measured in Newtons (N). Friction varies based on how
+rough the surface is. In the real world, friction has many applications
+like providing traction for shoes, which is helpful for sports, preventing
+sliding, etc.
+
+
+
+
+Friction Force                                  Velocity
+
+
+             Important Definitions
+ Friction: the force that opposes
+ the motion of two objects in
+ contact.
+ Normal Force: the force that a
+ surface exerts on an object that is
+ on top of it.
+ Friction Coefficient: a
+ measurement of how much
+ friction exists between two
+ surfaces.
+ Traction: the ability to stay on a
+ surface without sliding.
+ Air Resistance: the friction force     Air Resistance
+ between an object and the air.
+
+
+
+
+9                     1.2 FRICTION + AIR
+      USES OF FRICTION
+Engineering
+When engineers are designing
+machines and objects like cars
+and road surfaces, they rely on
+and account for a frictional force.
+For example, friction is used to
+help the car slow down and stop
+when a driver hits the brakes.
+
+
+
+
+                               Sports Gear
+                               Friction is also utilized in sports gear
+                               in order to increase traction and
+                               improve performance. For example,
+                               sports shoes are crafted to provide an
+                               appropriate amount of friction/grip to
+                               minimize sliding.
+
+
+
+
+  Medical Devices
+ Friction is also used to improve the use
+ of medical devices. For example, it may
+ be used in surgical instruments to
+ improve grip with flesh and organs in
+ order to facilitate surgery and ensure
+ that it is successful.
+
+
+
+
+                      1.2 FRICTION + AIR                            10
+         WHAT AFFECTS
+           FRICTION
+     Normal Force
+The normal force is the upward force that
+the ground exerts on a solid object and
+prevents the objects. The normal force
+also affects friction and has a direct
+relation to the friction force between the
+object and the surface. When normal
+force increases, the frictional force also
+increases.
+
+
+                                             Material
+                                     The type of material that an
+                                     object is made with will most
+
+
+             vs
+                                     likely have a large impact on
+                                     its frictional force. For example,
+                                     your kitchen tiles would have
+                                     lower friction with the ground
+                                     than carpet would as tiles are
+                                     much smoother.
+
+
+
+
+          Temperature
+Surprisingly, the weather can also have an impact
+on friction! Since many surfaces' properties change
+as the temperature changes, their frictional forces
+with objects may change with these properties as
+well.
+
+
+
+11                  1.2 FRICTION + AIR
+    TYPES OF FRICTION
+           Static                          Kinetic
+  Static     friction  is   the    Kinetic friction is defined as
+  frictional force between an      the frictional force between
+  object and the ground when       an object and the ground
+  the object is not moving.        when the object is sliding.
+  Static friction is the force     Kinetic friction depends on
+  needed to move an object         the roughness of the surface;
+  out of rest. To conquer static   the friction in the surface
+  friction, you need to push       causes objects to slow down
+  the object with a force          and stop after a certain
+  greater than the static          distance (e.g. a large box that
+  friction force.                  is pushed by a human).
+
+
+FRICTION                           FRICTION
+ FORCE                              FORCE               MOVEMENT
+
+
+
+   Object with no movement;
+   static friction acting on the   Teddy bear moving to the right
+   object                          due to an external force; kinetic
+                                   friction acting on it
+
+
+                         OUTSIDE      FRICTION
+ FRICTION
+                          FORCE        FORCE
+  FORCE
+
+
+
+
+     Outside force overcomes       The Teddy bear slows down and
+     static friction force         stops due to kinetic friction.
+
+
+
+
+                       1.2 FRICTION + AIR                     12
+     TYPES OF FRICTION
+         Fluid                              Rolling
+Why is it harder to move your      Similar to kinetic friction,
+legs and body when you are         rolling friction is the frictional
+swimming than when you are         force of an object when it is
+walking on a surface? The          rolling. The force for rolling
+answer is fluid friction. Fluid    friction is usually lower than
+friction is the frictional force   kinetic friction as it is much
+between an object and a type       easier and takes less effort to
+of fluid like air or water and a   roll an object than push it on
+type of fluid like air or water.   a rough surface            Rolling
+Unlike other types of friction,    friction is also affected by
+fluid friction is affected by      other factors like velocity.
+other factors like viscosity.
+
+
+
+
+                                    Ball rolling on ground;
+Air resistance; an example of       experiences rolling friction
+fluid friction
+
+
+
+
+Water resistance; example of         Car wheels experience
+fluid friction                       rolling friction with surface
+
+
+
+
+13                   1.2 FRICTION + AIR
+              APPLICATION
+ Experiment#1:                            Experiment#2:
+ Rolling Friction                         Static Friction
+1. Take any ball you have in your       1. Take any small box you have
+  house                                   in your house
+2. Roll it on your house floor (or      2. Push/slide it on your house
+  any smooth floor if your house          floor (or any smooth floor if
+  floor is rough)                         your house floor is rough; the
+3. Time how long it takes to roll a       floor needs to be fairly
+  total of 1 meter                        smooth)
+4. Repeat steps 1-3, except roll        3. Repeat steps 1-3, except
+  the ball on a more rough                slide the box on a much more
+  surface this time (outdoors); try       rough surface this time
+  to apply the same amount of             (outdoors)
+  force to roll the ball as you did     4. Note the difficulty in
+  on the smooth surface                   pushing the box on the
+5. Compare the time it took for           smooth surface vs the
+  the ball to roll the given              difficulty in pushing on the
+  distance on both surfaces               rough surface
+
+
+        Question                              Question
+Did the ball take less, more, or the   Did it take you more, less, or the
+same amount of time to roll 1          same amount of effort to push
+meter on the rough surface than        the box on the smooth surface
+on the smoother one? Explain.          than the rough surface? Explain.
+
+
+
+
+                       1.2 FRICTION + AIR                            14
+THOUGHT PROVOKING
+
+                              Imagine friction
+                              suddenly
+                              disappearing off the
+                              face of the Earth.
+                              How do you think
+                              this would affect the
+                              planet and its
+                              processes?
+
+ Suppose you take any
+ mass and drop it from
+ different heights, finding
+ the time it takes to reach
+ the ground. Using this,
+ you calculate the vertical
+ acceleration of the
+ object. Is it possible for
+ the ball to accelerate
+ since there is fluid
+ friction pushing it up?
+ Why or why not?
+
+
+
+15             1.2 FRICTION + AIR
+       1.3 HOW
+    AIRPLANES FLY
+  How do airplanes actually fly?
+
+        Questions of the day
+             x75   How are planes such as the Boeing 747 able
+                   to fly despite weighing around 900,000
+                   pounds, which is about 75 full-grown
+                   elephants?
+
+                   Why do smaller planes experience more
+                   turbulence than larger planes?
+
+                   Why do airplanes have propellers in the
+                   front instead of the back?
+
+
+
+
+KEY WORDS
+    Lift
+   Drag
+  Weight
+  Newton
+ Lightning
+   Flight
+  Thrust
+  Engine
+Turbulence
+
+
+
+         1.3 HOW AIRPLANES FLY                            16
+                             DRAG
+                                  What is drag?
+                          When an airplane is flying, it has to move
+                          through the air, which creates resistance or
+                          drag. Drag is the force that opposes motion
+                          through a fluid, such as air or water. It is caused
+                          by friction between the object and the fluid and
+                          increases with the object's speed and surface
+ That force you feel      area. In the case of airplanes, it is the force that
+ when putting your        acts against the forward motion of the aircraft.
+  hand outside the        It is caused by the friction of the air flowing
+ window in a moving       over the surface of the airplane, which
+  car is called drag.     generates turbulence and a pressure difference
+                          between the front and rear of the aircraft.
+
+
+
+                          Why is drag important?
+                          Drag is critical for airplanes to fly safely and
+                          efficiently as pilots use it to control speed and
+                          altitude during takeoff, landing, and flight.
+  Knowing how drag        Adjusting flaps and other aerodynamic devices
+effects an airplane is    allows pilots to increase or decrease drag,
+essential for flying an   enabling them to slow down or speed up, climb
+airplane as safely and    or descend, or maintain a stable flight path. Drag
+  stable as possible.     plays a vital role in the stability and control of an
+                          airplane, such as during a stall, when increased
+                          drag causes the nose of the aircraft to drop and
+                          restores airflow over the wings. Similarly, during
+                          maneuvers, drag on the outer wing increases,
+                          preventing the aircraft from rolling too far and
+                          maintaining a stable flight.
+
+
+
+ 17                 1.3 HOW AIRPLANES FLY
+                        THRUST
+What is thrust?
+Thrust is defined as a force that pushes an
+object in a specific direction. In the case of
+airplanes, thrust is generated by the airplane's
+engines, which provide the necessary power to
+overcome the drag and lift the aircraft into the
+air. Thrust is one of the fundamental forces
+involved in flight, and it is necessary for
+airplanes to fly.
+The engine of an airplane generates thrust by       The average NASA
+compressing air and mixing it with fuel in the      rocket's boosters
+combustion chamber. The ignited fuel and            generate a combined
+                                                    thrust of about 5.3
+compressed air rapidly expand, creating a high-
+                                                    million pounds or 40
+pressure and high-velocity stream of exhaust        million horsepower.
+gases that are expelled out of the back of the      That is equivalent to
+engine. This expelled stream of gases provides      the amount of energy
+                                                    produced by 400,000
+the thrust force necessary to move the airplane
+                                                    cars.
+forward. Thrust is used to propel the airplane
+forward, overcoming the force of drag that acts
+in the opposite direction. Drag is the resistance
+experienced by the airplane as it moves
+through the air, caused by factors such as air
+resistance, friction, and turbulence. Without
+enough thrust to overcome drag, the airplane
+would be unable to move forward and would
+remain stationary.
+  Thrust is in
+ the direction
+   of motion
+
+
+                     1.3 HOW AIRPLANES FLY                        18
+                                 LIFT
+                         What is lift?
+                         Lift is an upward force that is exerted on an object
+                         when it moves through a fluid, such as air or
+                         water. In the case of airplanes, lift is used to
+                         overcome the force of gravity and keep the
+                         aircraft airborne. While drag is the force parallel
+                         and in the opposite direction of the flow force, lift
+                         is the upward force that is perpendicular to the
+                         flow force. It is what keeps objects in the air and
+  Pilots control the     able to gain altitude.
+lift of an airplane by
+ adjusting the angle
+  of attack and the      Why is lift important?
+     speed of the        To understand how lift works, it is important to
+  aircraft. When the     understand the basic principles of aerodynamics.
+   angle of attack is    The shape of an airplane's wings is designed to
+ increased, the wing     create a difference in air pressure above and
+ produces more lift,     below the wing. This difference in pressure
+allowing the aircraft    generates lift. The curved upper surface of the
+ to climb. When the      wing is longer than the flat lower surface, which
+   angle of attack is    means that air traveling over the top of the wing
+  decreased, the lift    has to travel a greater distance than air traveling
+ decreases, causing      under the wing. This causes the air to move faster
+    the aircraft to      over the top of the wing, creating a lower air
+       descend.          pressure than the air underneath the wing. This
+                         difference in pressure creates an upward force
+                         that lifts the airplane off the ground. The amount
+                         of lift generated by an airplane depends on
+                         several factors, including the speed of the aircraft,
+                         the angle of attack (the angle at which the wing
+                         meets the airflow), the shape and size of the wing,
+                         and the air density. Similarly, increasing the speed
+                         of the aircraft increases the amount of lift, while
+                         decreasing the speed reduces the lift.
+
+
+
+19                  1.3 HOW AIRPLANES FLY
+             WEIGHT IN
+           AERODYNAMICS
+How is weight used in
+flight?
+Weight   is   a   critical     component      in     the
+mechanics of an airplane's ability to fly. To
+understand how weight is used and necessary
+for   airplanes   to    fly,   it   is   essential    to    A lightweight airplane
+understand the basic principles of flight. This                can withstand the
+is where the importance of weight becomes                       forces of flight
+                                                              through the use of
+clear. An airplane must be designed to be as
+                                                            lightweight materials,
+lightweight as possible while still being strong
+                                                            such as aluminum and
+enough to withstand the forces of flight.                    composite materials,
+However, weight is not only important for                         and careful
+generating lift. It is also crucial for maintaining              engineering.
+stability during flight. An airplane's center of                          Lift
+gravity (CG) must be carefully balanced to
+ensure that the airplane remains stable in the             Drag
+air. The CG is the point on the airplane where
+all the weight is concentrated. If the CG is too                            Thrust
+far forward or too far back, the airplane will be
+unstable and difficult to control. To ensure                 Gravity
+that the CG is properly balanced, the weight of
+an airplane's passengers, cargo, and fuel must                In an airplane, the
+be distributed evenly throughout the airplane.              upwards force is lift,
+This is why airlines often have strict weight              the downwards force
+restrictions for passengers and baggage. By                is weight, the forward
+carefully managing the weight of an airplane,                force is thrust, and
+pilots can ensure that it remains stable and                the backwards force
+safe during flight.                                                 is drag.
+
+
+
+                       1.3 HOW AIRPLANES FLY                                20
+              APPLICATION
+      HOW TO BUILD A HOMEMADE KITE!
+
+
+                            Materials:
+  2 thick rods or sticks (one longer than the other), some lightweight
+fabric (Ex. plastic bags or tissue paper), string, scissors, glue, a marker
+                                  or pen
+
+
+
+                        Instructions:
+1. Start by making the frame of the
+   kite. Take the longer rod and mark
+   the center. Place the shorter rod
+   perpendicular to the longer one,
+   making a cross shape. Glue the two
+   rods together at the center point
+   where they meet.
+
+
+
+
+                                 2. Cut notches at the ends of both rods
+                                 using the scissors. Tie a piece of string
+                                 around one end of the longer rod, and
+                                 knot it into the notch.
+
+
+
+
+3. Stretch the fabric over the frame of
+the kite, leaving some excess on all
+sides. Use glue to attach the fabric to
+the rods at the edges.
+
+
+
+
+21                1.3 HOW AIRPLANES FLY
+             APPLICATION
+     HOW TO BUILD A HOMEMADE KITE!
+
+
+                        Instructions:
+4. Cut a length of string that is about
+three times the length of the kite. Tie
+one end to the knot at the top of the
+kite. Run the string through the notch at
+the bottom of the kite, and tie it off
+securely.
+
+
+
+
+                                 5. Attach a tail to the bottom of the
+                                 kite using a long piece of string. This
+                                 will help stabilize the kite and keep it
+                                 from flipping over in the wind.
+
+
+
+
+6. Cut off the excess fabric, leaving
+about an inch of overhang. Fold the
+overhang over the edges of the rods,
+and glue it down to create a neat edge.
+
+
+
+
+                               7. Your kite is now ready to test! Make
+                               sure to look for all four laws of flight in
+                               action!
+
+
+
+
+                1.3 HOW AIRPLANES FLY                               22
+THOUGHT PROVOKING
+  How does differences in air temperature
+      affect the balance of a plane?
+                                  Lift
+
+                      Drag
+
+
+                                    Thrust
+
+
+                        Gravity
+
+
+
+
+   Why are wind shears
+  extremely dangerous
+    to landing planes?
+  When are planes most
+vulnerable to wind shears?
+
+
+
+
+                         What is needed to
+                        make an airplane fly
+                           backwards?
+
+
+
+23        1.3 HOW AIRPLANES FLY
+    1.4 AIR PRESSURE
+How does air pressure play a role in planes?
+
+
+                Questions of the day:
+                          How does the cabin stay warm
+                          even when you are so high up?
+
+
+                          Why are the windows oval-shaped?
+
+
+                           Why is there a pinhole at the
+                           bottom of every window?
+
+
+
+
+ KEY WORDS
+ Principle
+ Air
+ Hypoxia
+ Distribution
+ Properties
+ Area
+ Atmosphere
+ Oval
+ Force
+ Pressure
+
+
+
+
+                   1.4 AIR PRESSURE                        24
+            WHAT DOES
+          PRESSURE MEAN
+                        The general definition of pressure is the force
+  PRESSURE              applied perpendicular to the surface of an
+                        object per unit area over which that force is
+                        distributed. Air pressure plays a huge role
+                        inside airplanes. A proper value of air
+                        pressure inside an airplane cabin is very
+                        important. It helps the oxygen in the cabin to
+                        stay stable and allows passengers to breath. It
+                        also keeps the cabin at a stable temperature.
+                        The pressure is directly proportional to the
+                        force applied. However, pressure is inversely
+                        proportional to the surface area.
+
+
+  What happens when you lose cabin
+  pressure?
+  When cabin air pressure is lost on a plane, it is
+  a very dangerous scenario because the oxygen
+  level in the cabin would reduce eventually
+  causing hypoxia (oxygen starvation) and
+  harming the passengers in the plane. Loss of
+  cabin pressure is usually caused by air leaking
+  through a hole in the plane or a cosmetic
+  failure.
+
+                       When an airplane cabin gets depressurized
+                       passengers get hypoxia as mentioned above, if
+                       a strict course of action is not taken, the
+                       passenger can go unconscious or even worse, it
+                       can lead to death. Hence when cabin pressure
+                       is lost, the priority of keeping the passengers
+                       safe is taken very seriously.
+
+
+
+25                     1.4 AIR PRESSURE
+By. XXX
+          WINDOW SHAPE
+  How does oval shape windows help
+  with cabin air pressure?
+Today airplanes use oval-shaped windows because they are really good
+when it comes to pressure distribution. Being an oval shape, it has
+curved edges instead of sharp or 90-degree edges. Curved edges help
+with the air distribution and hence keep the cabin pressurized so that
+the oxygen rate also stays stable and doesn't allow air to escape. It also
+plays a role in the airplane's performance, since the plane flies at a high
+speed, the curved edges help with the smooth flow of air around the
+edges to make the airplane fly efficiently.
+                                                          Fri
+                                                             cti
+                                                                on
+
+                               Pressure
+
+                 CURVED
+                  EDGES
+
+   Why are the windows oval in shape
+   instead of other shapes?
+                       This is mainly done for safety purposes. Square
+                       windows have very sharp angles which usually
+                       causes the fuselage (airplane body) to expand.
+                       It isn't capable of maintaining normal cabin air
+                       pressure.
+                       As mentioned above, the shape of the window
+                       also plays a role in the airplane's performance.
+                       Square-shaped windows are not as efficient
+                       compared to oval-shaped windows because
+       SHARPED         there isn't a proper way to distribute air around
+                       sharp edges hence affecting the performance.
+         EDGES
+
+
+                       1.4 AIR PRESSURE                              26
+            CALCULATING
+             PRESSURE
+Having a normal pressure reading in
+the cabin is extremely important to
+breathe properly. High air pressure
+or low air pressure can be very
+dangerous on airplanes. Significantly
+High or low pressure has a very high
+risk of catastrophic failure. The plane
+can explode into billion pieces mid-
+flight, if there the pressure is not
+right. When the airplane is at a
+cruising altitude, the cabin pressure
+is 12 pounds per square inch (PSI).
+
+
+                              We have learned of the dangers we face
+                              with extremely low and extremely high
+
+        FORCE
+                              cabin pressure and what normal cabin
+                              pressure is. Now we learn how to find the
+     --------------           pressure with the given information (i.e
+
+         AREA                 force applied and area of a surface). The
+                              simplest way to calculate pressure is by
+                              dividing    the     forcee   applied   on   a
+                              particular area of the surface.
+
+As mentioned above, it is crucial to maintain
+cabin   pressure   in   the   normal     range.   In
+airplanes, the computers monitor the pressure
+24/7 and when the pressure falls below normal,
+the oxygen masks get deployed.
+
+
+
+
+27                      1.4 AIR PRESSURE
+        PRESSURE VS AIR
+         TEMPERATURE
+ How does air temperature effect cabin
+ pressure?       Even the temperature of the air plays
+                               a role to maintain proper air pressure.
+                               If cold air is denser than hot air, the
+                               weight would be more than warm
+                               temperatures. Air temperature also
+                               affects   the    performance     of    an
+                               Airplane. Since cold air is way denser
+                               than warm air, it creates more lift in
+                               cold air compared to hot air hence
+                               making the airplane air born easier.
+
+
+ Bernoulli's principle and Boyle's law
+Bernoulli's principle states that an
+increase in speed happens at the
+same time as a decrease in pressure.
+This principle explains fluid behavior
+in diverse applications, from airplane
+flight to water flow in pipes.
+
+
+
+
+                           Boyle's law states that the gas pressure is
+                            inversely proportional to its volume at
+                                     constant temperature.
+
+
+
+                      1.4 AIR PRESSURE                                28
+           LANDING GEAR
+ What is a landing gear on planes?
+                                The landing gear is the wheels attached
+                                to a plane to help move from one place
+                                to another on the ground. They help
+                                with take-off and lading as well. The
+                                landing gear system on an airplane is
+                                built to handle extensive force and
+                                colossal weight. They even affect the
+                                plane's performance mid-flight. They
+                                use hydraulic pressure to retract and
+                                deploy during mid-flight.
+
+
+
+How does the Landing gear affect the
+airplane's performance
+The landing gear on airplanes also plays a
+significant role in the airplane's performance.
+Have you ever noticed that the wheels (landing
+gear) retract when the plane lifts off from the
+ground? That is done to improve the
+aerodynamics of the aircraft. when the wheels are
+still down mid-flight, airflow will be improper and
+the plane won't fly efficiently. We know that it gets
+freezing at cruising altitude (i.e. near the earth's
+atmosphere), which may affect the rubber on the
+tires. When the wheels are retracted, it does not
+create any air restriction. Hence the plane can fly
+faster. It also helps while landing because it helps
+the pilots maintain a slower speed to perform a
+soft landing.
+
+
+
+29                     1.4 AIR PRESSURE
+THOUGHT PROVOKING
+
+Why is there a layer of
+plastic material inside
+ the window surface?
+
+
+
+
+                            What's the
+                             difference
+          OR              between these 2
+                          when it comes to
+                              air flow?
+
+
+
+    Does temperature
+ reduce/increase/ stay the
+same when you reach a high
+         altitude?
+
+
+
+                                       30
+THOUGHT PROVOKING
+
+             What happens to
+             air pressure and
+             temperature when
+             we move more into
+             the atmosphere?
+
+
+
+What is the instrument
+used to calculate air
+pressure?
+
+             Air pressure is high
+             when it is raining
+             (True/False)?
+
+
+
+What is hydraulic
+pressure and how does
+it work?
+
+31       1.4 AIR PRESSURE
+   1.5 SUSTAINABLE
+       AVIATION
+What are the benefits of airplanes and
+ how are they constantly evolving?
+
+     Questions of the day:
+
+                How do airplanes help millions of people?
+
+                How could airplanes improve?
+
+                How would they help society?
+
+
+
+
+KEY WORDS
+
+Airplane
+Design
+Technology
+Emissions
+Innovation
+Improvement
+Aerodynamic
+Engine
+
+
+
+
+         1.5 SUSTAINABLE AVIATION                    32
+HISTORY OF AVIATION
+WRIGHT FLYER
+The Wright Flyer flight on December 17,
+1903, is widely recognized as the first
+successful aircraft flight. The Wright Flyer
+was a biplane (pictured to the right) with a
+40-foot wingspan and weighed slightly over
+600 pounds. While the flight only lasted 12
+seconds and the plane only traveled 120
+feet, it marked the beginning of the age of
+aviation.
+
+
+                            FIRST COMMERCIAL FLIGHT
+                            The first ever commercial flight occurred
+                            on January 1, 1914, with just a singular
+                            passenger. The mayor of St. Petersburg
+                            paid $400 to fly 21 miles from St.
+                            Petersburg, Florida to Tampa, Florida. This
+                            marked the beginning of the commercial
+                            flight industry.
+
+
+
+ JET ENGINES
+ Jet engines were developed in the 1930s
+ by German and British engineers, both
+ working independently. Jet engines were
+ first implemented into aircraft during
+ World War II, and they increased the
+ speed, efficiency, and reliability of flights.
+
+
+
+
+33              1.5 SUSTAINABLE AVIATION
+ HISTORY OF AVIATION
+FIRST SUPERSONIC FLIGHT
+In 1947 the United States Air Force chose
+Chuck Yeager to fly the Bell X-1, the
+world's first plane capable of breaking the
+sound barrier. The plane reached an
+altitude of 45,000 feet and a speed of
+Mach 1.06, which was around 700 mph.
+This was the start of the development of
+supersonic aircraft which is thought to be
+a large step in aircraft development.
+
+
+
+
+                       FIRST FLIGHT ACROSS ATLANTIC
+                        The first ever non-stop flight across the Atlantic
+                        Ocean occurred in 1919 by the British pilot's
+                        John Alcock and Arthur Brown. The men flew
+                        around 1900 miles from Canada to Ireland in
+                        over 16 hours. This marked the beginning of a
+                        now-blooming tourism and travel industry.
+
+
+
+       GLOBAL SOLO FLIGHT
+Wiley Post was an American pilot who
+completed the first-ever solo flight around
+the world. In approximately a week, he
+flew nearly 16,000 miles and demonstrated
+the capabilities of aircraft. This inspired
+generations to come to continue to develop
+the industry of aviation and follow in his
+footsteps.
+
+
+
+
+                    1.5 SUSTAINABLE AVIATION                          34
+               EVOLUTION OF
+                 AVIATION
+  COMPUTER TECHNOLOGY
+In the 1960s, computer technology began
+to be used in the navigation and control
+of aircraft. Computer technology allowed
+for more efficient flights through more
+accurate navigation with technology such
+as radar. This was a large milestone in the
+improvement of aviation and technology
+has continued to develop since then.
+
+
+
+
+                                    GLOBAL AIR TRAVEL
+                          Through the gradual deregulation of global
+                          airspaces, airplanes began to be allowed to
+                          travel across countries and even continents.
+                          This was a pivotal factor that eventually led to
+                          the globalization of aviation and large-scale
+                          commercial flying.
+
+
+
+         AERODYNAMICS
+Over the years since the introduction of
+airplanes, especially during the 1970s, there
+was a focus on improving aerodynamics.
+Aerodynamics is the study of how air
+interacts with planes and affects their
+motion. Improvements in aerodynamics
+made flights take less fuel and be more
+efficient which allowed for the expansion of
+the aviation industry.
+
+
+
+35            1.5 SUSTAINABLE AVIATION
+             EVOLUTION OF
+               AVIATION
+        CARBON FIBER
+One objective of airplane design is
+reducing the weight of the planes.
+Early planes, like the Wright Flyer,
+were made of heavy, solid materials
+like oak wood, and this limited their
+range and efficiency. Carbon fiber was
+invented in the 1980s and when
+incorporated into aviation it made
+planes much lighter and easier to
+launch and control. Carbon fiber is a
+synthetic material that is extremely
+malleable while still being light and is
+a large reason airplanes are able to be
+so widespread today.
+
+
+                               FUEL EFFICIENT ENGINES
+                                Engines have continued to evolve to be
+                                increasingly fuel efficient. This has
+                                contributed to decreasing the cost of
+                                flights, and emissions. An additional
+                                benefit has been increasing the range
+                                planes can fly by decreasing the
+                                amount of weight they must carry. The
+                                largest    developments   in   efficient
+                                engines were during the 1990s when
+                                multiple breakthroughs were made.
+
+
+
+
+                  1.5 SUSTAINABLE AVIATION                          36
+ AVIATION IN SOCIETY
+            BENEFITS OF MODERN AVIATION
+                Over 1 billion passengers a year
+  Safety and efficiency optimized through GPS and navigation
+          Increases global connectivity through travel
+                  Allows for cultural exchange
+                  Tourism boosts the economy
+                          Global Trade
+                    New Economical Sectors
+              Aerospace manufacturing + engineering
+
+
+      CONCERNS                     POSSIBLE SOLUTIONS
+While aviation has many           Fuel efficiency
+benefits for society there are        Efficient engines
+many concerns surrounding             Lighter construction
+it, primarily environmental.          More aerodynamic designs
+Global warming is a prevalent         Alternative fuel sources
+issue currently and airplanes     Pilotless flights
+                                      Increase safety
+consume large amounts of fuel
+                                  Increased speed
+and have a lot of emissions. In
+                                      Supersonic
+order     to  combat     global
+                                  Use of 3d printing in
+warming, one important factor     manufacturing
+is decreasing the natural gas         Possible to decrease costs
+emissions    associated    with       Lightweight part
+aircraft.
+
+
+
+
+37            1.5 SUSTAINABLE AVIATION
+            APPLICATION
+                 PARACHUTE EXPERIMENT
+Create a small parachute using materials such as plastic bags or
+tissue paper. Attach a weight, such as a small toy, to the
+parachute and drop it from a height. Experiment with different
+parachute sizes and shapes to see how they affect the speed and
+efficiency of the descent.
+
+
+         MATERIALS
+  Light plastic bag or thin paper
+  Toy or other small items
+  String
+  Tape
+
+          STEPS
+1. Gather your materials (see
+   above)
+2. Attach the string to the bag
+   or paper using tape
+3. Attach the lightweight object
+   to the string by tying the
+   string around it or with the
+   tape
+4. Drop from various heights
+   and try different materials
+   and weights, observe the
+   changes made in the speed
+   of falling.
+
+
+
+
+                1.5 SUSTAINABLE AVIATION                   38
+THOUGHT PROVOKING
+ WHY IS IT IMPORTANT FOR AIRPLANES TO BE
+              FUEL EFFICIENT?
+ Think about what would happen if airplanes consumed much more
+ fuel every trip. What would change about the world? Analyze
+ impacts on the environment, economy, and access to flights.
+
+
+                Agriculture
+                  10.1%
+                                        Transportation
+Commercial                                  28.3%
+  13.1%
+
+
+
+
+     Industry
+       23.2%
+                                    Electricity
+                                      25.3%
+                 Carbon Emissions
+
+
+
+     WHY AREN'T PRIVATE PLANES READILY
+                AVAILABLE?
+ In the status quo, only the wealthy use private planes often. Why
+ is this? Think about how the world would change if every person
+ was able to use private planes when needed. What factors stop
+ this from being possible?
+
+
+
+
+39              1.5 SUSTAINABLE AVIATION
+     1.6 APPLYING TO
+        AIRPLANES
+WHAT ARE FORCES AND WHY DO THEY MATTER?
+
+
+               QUESTIONS OF THE DAY
+                   How does the design of a paper airplane
+                   affect its flight performance?
+                   Can the paper airplane's flight be controlled
+                   and manipulated, and if so, how?
+                   What role does aerodynamics play in the
+                   flight of a paper airplane?
+                   How does the weight distribution of a paper
+                   airplane affect its flight?
+
+
+
+
+  KEY WORDS
+    Pressure
+     Weight
+      Wing
+      Drag
+      Mass
+     Angle
+     Thrust
+      Lift
+     Airflow
+
+
+
+           1.6 APPLYING TO AIRPLANES                        40
+       IMPORTANCE OF
+      PAPER AIRPLANES
+ WHAT ARE THEY FOR?
+ Airplanes are vital for global connectivity, trade, and tourism,
+ enabling fast travel and cultural exploration. They also aid in
+ emergencies, delivering aid and saving lives. The aviation industry
+ creates jobs and boosts the economy. Advancements in technology
+ have made planes safer and more fuel-efficient and contributed to
+ progress.
+                                     Carrying medicine
+
+
+
+
+ HISTORY OF THE PAPER AIRPLANE
+Early in the 20th century, Leonardo da Vinci began experimenting with
+paper folding to make basic flying toys. This is when the history of paper
+aircraft can be found. These early paper crafts over time developed into
+more complex designs and gained popularity all across the world. Paper
+airplanes were a common type of entertainment soldiers used to pass
+the time during World War II. In the years that followed, making paper
+airplanes became a well-liked activity for both kids and adults, sparking
+the creation of several books, periodicals, and websites that provide
+instructions on how to create various designs. People still enjoy making
+paper airplanes nowadays because they can use their imagination and
+ingenuity to build one-of-a-kind flying creations that soar through the
+air.
+
+
+
+
+41           1.6 APPLYING TO AIRPLANES
+  FACTORS AFFECTING
+   PAPER AIRPLANES
+                                     Wingspan
+                                     The wingspan of paper airplanes affects
+                                     their flight performance in several
+                                     ways. A wider wingspan provides more
+                                     surface   area,   generating       lift   and
+                                     extending flight time. Additionally, an
+                                     even   wingspan     is   crucial   for    the
+                                     stability of the airplane during flight, as
+                                     an uneven wingspan can cause the
+                                     plane to topple over and crash.
+
+
+       Flat Tip                                Pointed Tip
+Flat-tipped paper airplanes          A pointed tip on a paper airplane offers
+offer many benefits in order         multiple advantages. Firstly, it reduces
+to   enhance    their   abilities.   drag, allowing the plane to fly more
+Firstly, they increase airflow       efficiently and cover greater distances.
+over   the    plane's   surface,     Secondly, it improves aerodynamics by
+reducing drag and improving          smoothly guiding airflow across the
+efficiency.   Secondly,    these     wing's surface. This leads to a stable
+planes enhance stability and         and predictable flight path for the
+accuracy, helping to minimize        paper airplane.
+turbulence during flight. This
+results in smoother and more
+effective flights. Additionally,
+flat tips are known to enhance
+a paper airplane's speed and
+distance-traveling abilities.
+                                                              Pointed Tip
+
+                  1.6 APPLYING TO AIRPLANES                                    42
+  FACTORS AFFECTING
+   PAPER AIRPLANES
+                                               Weight
+                                      The weight of a paper airplane has
+                                      various effects on its flight
+                                      performance.      Heavier   planes
+                                      pose challenges in launching and
+                                      control but offer slower and more
+                                      stable flights due to increased
+                                      gravitational force. Conversely,
+                                      lighter planes fly faster and are
+                                      more agile but may stall or lose
+                                      altitude quickly due to reduced
+                                      wing lift. Lighter paper airplanes
+                                      require less force to launch and
+                                      offer increased maneuverability,
+                                      allowing for quick and agile
+
+  Launching Angle                     flights, but they are more
+                                      susceptible to wind disturbances
+The launching angle is crucial for and may struggle to maintain a
+paper airplanes as it determines the steady course.
+initial trajectory of the flight. It
+greatly affects speed, height, and
+stability. A steep launch angle can
+lead to excessive speedd and quick
+altitude loss, making the plane
+difficult to control and prone to
+crashing. Conversely, a shallow angle
+results in slow and unsteady flight,
+reducing the distance covered.
+Optimal launch angles ensure a
+balanced flight with good speed,
+altitude, stability, and control.
+
+
+
+
+43           1.6 APPLYING TO AIRPLANES
+      FORMER RECORD
+    AIRPLANE DISTANCE
+
+
+
+
+  Fold the paper in half                              Fold the new
+                            Fold the corners of     corners of each
+   lengthwise: Fold the
+                             each side to the      side to the crease
+paper in half lengthwise,
+                               crease on the        on the center of
+ creating a crease down
+                            center of the paper        the paper
+the center of the paper.
+
+
+
+
+Make sure to flatten                                Fold the plane
+   all the creases                                backwards in half
+                              Flip the folded
+properly or else you                              so that each side
+                            paper back side up
+   might not get                                   is on top of the
+  desired results.                                      other
+
+
+                  1.6 APPLYING TO AIRPLANES                   44
+      FORMER RECORD
+    AIRPLANE DISTANCE
+
+
+
+
+Make a vertical                                 Lift the wings and
+fold on each side          Crease the            make sure both
+to the base of           fold and make           wings are at the
+the plane to             sure it is flush         same angle to
+make the wings                                  keep it balanced
+
+
+Please follow the instructions carefully to
+ensure the best possible results. To avoid
+injury, refrain from throwing paper airplanes
+near anyone's face or eyes. Also, be mindful
+of your surroundings and avoid flying paper
+airplanes in areas with low ceilings or near
+fragile objects. Never throw paper airplanes
+out of windows or balconies. Always handle
+paper airplanes with caution and supervise
+children when making and flying them. Keep
+in mind that safety should always come first
+when enjoying this fun and entertaining
+activity.
+
+
+
+
+45            1.6 APPLYING TO AIRPLANES
+   FORMER RECORD
+ AIRPLANE DISTANCE
+    EXPLANATION
+The primary design, weight     John Collins' World Record Paper
+distribution, and throwing     Aircraft is a remarkable illustration
+prowess of the notable         of how design and balance may
+paper airplane are just a      impact a paper airplane's flying. The
+few of the contributing        aircraft's expertly balanced design
+aspects that allow it to fly   that balances the four forces of
+as far as it does.             flight—lift, weight, push, and drag—
+                               has helped it set the world record for
+                               the longest flight. The 155-degree
+                               dihedral angle of the aircraft is one
+                               of the primary design features that
+                               contribute to its remarkable flight.
+
+
+
+
+A well-made paper airplane
+with a balanced weight
+distribution, along with a
+symmetrical shape will fly
+farther and steadier. The      By ensuring the best possible airflow
+throw's    technique   and     over the wings, this angle aids in
+speed will also have a big     maintaining the balance of the
+impact on how far the          aircraft while it is in flight. The
+plane travels. The total       plane's pointed front also aids in
+distance a paper airplane      reducing drag, which slows it down.
+will travel can also be        The plane's slope allows more air to
+influenced by variables like   flow by.
+wind speed and direction.
+
+
+
+               1.6 APPLYING TO AIRPLANES                         46
+THOUGHT PROVOKING
+  Can the principles of paper airplane
+design be applied to real aircraft design?
+
+
+
+
+                   Can a paper airplane
+                   be used for scientific
+                     research, such as
+                    studying airflow or
+                       turbulence?
+
+How can the design
+of a paper airplane
+ be optimized for
+distance, speed, or
+     accuracy?
+
+47      1.6 APPLYING TO AIRPLANES
+  FLOW OF
+ELECTRICITY
+
+
+
+
+   CHECK OUT
+  OUR YOUTUBE
+   CHANNEL!
+       2.1 ELECTRICITY
+What is electricity and how is it used?
+
+Questions of the day:
+                                   How is electricity made, and
+                                   what are some of its benefits
+                                      and disadvantages?
+
+
+
+
+ Where does lightning come from?
+
+
+
+
+Keywords
+ Neutron
+ Electric
+ Proton
+ Electron
+ Static
+ Charged
+ Energy
+ Circuit
+ Current
+
+
+
+
+49                 2.1 ELECTRICITY
+   FLOW OF ELECTRICITY
+                    What is the flow of electricity?
+                    Similarly to how water flows in pipes, electricity
+                    flows through its own type of pipes. Wires,
+                    conductors, and other electrically conductive
+                    materials provide a path that electricity needs to
+                    flow, also known as an electrical current. This
+                    current travels through the wires from a power
+                    source, such as a battery or a power plant, to the
+                    appliance you want to use, such as a TV. Electricity
+                    has become a daily part of our lives. From a lightbulb
+                    to a charger to the massive satellites in orbit, which
+                    all require electricity, our society now depends upon
+                    electricity.
+
+
+What does the flow look like?
+Electricity is a type of energy that flows
+through wires to power devices, but it's
+not something we can see with our eyes. If
+we could, it might look like a bright and
+fast-moving spark, but in reality, we must
+use other ways to know when electricity is
+flowing. For example, we can tell when
+electricity is flowing by the devices that
+turn on, like a light bulb or a fan, as the
+functioning of the utility shows the flow.
+Even though we can't see the flow of
+electricity literally, we can still tell when
+it's flowing as it powers devices and makes
+them work.
+
+
+
+                         2.1 ELECTRICITY                             50
+ PROTONS, ELECTRONS,
+    AND NEUTRONS
+The flow of electrons in the flow of electricity is
+called electric current. Electric current is measured
+in units of amperes (often shortened to "amps"),
+which is the rate at which electric charge flows
+through a material. When a large number of
+electrons are moving through a material, the
+electric current is strong, and when fewer electrons
+are moving, the electric current is weaker.
+
+
+                                     Electrons, protons, and neutrons play
+                                     a crucial role in the flow of electricity.
+                                     Electricity is the movement of electric
+                                     charge, and the electric charge is
+                                     carried by electrons. In an atom,
+                                     electrons are negatively charged
+                                     particles that orbit around the
+                                     positively charged nuclei, which are
+                                     made up of protons and neutrons.
+
+
+The flow of electricity is directly related
+to the movement of electrons. When an
+electric field is applied to a material, it
+causes the electrons to move, creating
+an electric current. The number of
+electrons and protons in an atom affects
+its electrical properties, as materials with
+an excess of electrons are said to be
+negatively charged, while materials with
+fewer electrons are said to be positively
+charged.
+
+
+
+51                       2.1 ELECTRICITY
+PROTONS, ELECTRONS,
+   AND NEUTRONS
+This relationship between electrons, protons,
+and the flow of electricity can be understood
+through the concept of electric charge.
+Electric charge is a fundamental property of
+matter and is determined by the number of
+electrons and protons in an atom. When there
+are more electrons than protons in an atom, it
+is negatively charged; when there are more
+protons than electrons, it is positively
+charged.
+
+
+
+
+                      In conclusion, electrons, protons, and neutrons
+                      all play a role in the flow of electricity. Electrons
+                      carry the electric charge and determine the
+                      electrical properties of a material, and the
+                      movement of electrons creates the electric
+                      current. The number of electrons and protons in
+                      an atom also affects its electrical properties and
+                      the flow of electricity.
+
+
+
+
+                        2.1 ELECTRICITY                              52
+         CONDUCTORS AND
+           INSULATORS
+              Conductors                     Insulators
+                Copper                       Rubber
+               Aluminum                       Glass
+                 Silver                     Pure water
+                Humans                         Oil
+
+
+The flow of electricity is affected   Insulators, on the other hand,
+by the type of material the current   have few free electrons, so
+passing through. Conductors have      electric currents cannot flow
+a high number of free electrons,      easily through these materials
+which are electrons that are not      Examples of insulators include
+tightly bound to a particular atom.   rubber, wood, glass, and air.
+These loose electrons can move        Insulators are usually found in
+freely through various materials,     electrical systems to protect
+allowing electric current to flow     people and equipment from
+easily. Examples of conductors        electric shock and to prevent
+include copper, aluminum, and         electrical fires.
+silver.
+
+
+
+
+53                      2.1 ELECTRICITY
+                    LIGHTNING
+
+Why does Lightning Occur?
+Lightning occurs when there is a buildup of
+electrical charge in the atmosphere,
+usually in the form of thunderstorms. Air
+acts as an insulator between the positive
+and negative charges in the cloud and
+between the cloud and the ground. When
+the opposite charges build up enough, this
+insulating capacity of the air breaks down,
+and there is a rapid discharge of electricity
+that we know as lightning.
+
+
+The Discovery of                         Revolutionization
+Electricity?                             of Electricity
+In 1752, Benjamin Franklin flew a kite   Electricity has transformed the
+with a metal key attached to it during   world by powering homes, cars,
+a thunderstorm. He observed that         and factories, connecting people
+the silk ribbon attached to the key      through technology. It led to the
+became charged with electricity, and     invention of the telegraph, cars,
+when he touched the key, he felt a       the telephone, and eventually
+shock, demonstrating that lightning      even the internet. This changed
+was indeed a form of electricity. This   how        we      communicated.
+experiment was a significant step in     Electricity has also enabled new
+understanding the true nature of         technologies, such as motors and
+electricity and its relationship with    generators,        which       are
+lightning,      leading    to      the   transforming the way we live and
+development of lightning rods to         work. Today, it remains a vital
+protect people and buildings from        part of modern society and
+lightning strikes.                       continues to shape the future.
+
+
+
+                         2.1 ELECTRICITY                               54
+           APPLICATION
+
+Steps needed:
+Supplies needed:
+A sink and a comb or a balloon
+
+1. Turn on the faucet with a small stream of
+  water
+2. Charge the comb or balloon by rubbing it in
+  your hair
+3. Hold the comb or balloon close to the stream
+  of water without touching it
+4. Observe the water bending
+5. Why do you think this happened?
+
+
+
+
+55                2.1 ELECTRICITY
+               APPLICATION
+Why this works?
+Atoms are made up of protons with a positive charge, neutrons with no
+charge, and electrons with a negative charge. Typically, the positive and
+negative charges in an atom balance each other out, making the atom
+and the object it composes neutral in charge. However, when two
+objects are rubbed together, some electrons may transfer, causing one
+object to become positively charged and the other negatively charged.
+This leads to their attraction due to their opposite charges. Static
+electricity is less likely to build up on humid days because the charged
+particles attach to the water molecules in the air.
+
+
+
+
+The buildup of static electricity can be a useful phenomenon, but it can
+also be problematic in certain situations. For example:
+   Static electricity can pose a risk of fire or explosions in environments
+   with flammable materials, such as gas stations, chemical plants, or
+   grain silos.
+   Static electricity buildup can cause discomfort or pain when it
+   discharges through our bodies, such as when we get a shock from a
+   doorknob or a car door.
+   Static electricity can interfere with sensitive electronic equipment,
+   such as in manufacturing plants or hospitals, where it can cause
+   malfunctions or damage to equipment.
+   Static electricity can attract dust and other particles, leading to
+   cleanliness issues in certain environments, such as laboratories or
+   clean rooms.
+
+
+
+                         2.1 ELECTRICITY                              56
+ THOUGHT PROVOKING
+
+ Can the flow of electricity be used to create new
+       forms of art, music, and expression?
+
+
+
+
+  Electricity is currently made mainly through non-
+renewable sources, what are the ways we can make it
+                      renewable?
+
+
+
+
+     What are different ways to produce energy?
+     Which are friendly to the environment and
+                    which are not?
+
+
+
+
+57               2.1 ELECTRICITY
+              2.2 MAGNET
+
+Questions of the day
+                   How can you magnetize a
+                   material that is not naturally
+                   magnetic?
+                   How are magnets used in
+                   transportation, such as trains and
+                   levitating vehicles?
+                   Are magnets able to lose their
+                   magnetism over time? If so, why
+                   and how can they be re-
+                   magnetized?
+
+
+
+
+Keywords
+ Attraction
+ Field
+ Flux
+ Force
+ Levitate
+ Magnetism
+ Pole
+ Repulsion
+
+
+
+
+59              2.2
+                2.2 MAGNET
+                    MAGNET                        58
+           HISTORY BEHIND
+              MAGNETS
+                             It was discovered that certain stones,
+                             known as lodestones, could attract iron at
+                             the beginning of magnetism's history. In
+                             200 BC, the Chinese were the first to
+                             record the usage of lodestones for
+                             navigation. William Gilbert, an English
+                             physician, studied magnetism through
+                             experiments in the 16th century and
+                             produced "De Magnete," which is regarded
+                             as the first comprehensive analysis of
+                             magnetism. He found that the Earth had a
+                             north and south magnetic pole and
+                             functioned as a gigantic magnet.
+
+
+Electric currents produce magnetic fields,
+as Hans Christian Oersted of Denmark
+discovered     in   the   19th   century.
+Electromagnets, which are utilized in
+many modern technologies, including
+motors and generators, were developed in
+effect. The development of permanent
+magnets(ex. fridges) and magnetic storage
+technologies like hard drives and credit
+cards were made possible by the
+discovery of magnetic materials like iron,
+nickel, and cobalt.
+
+Nowadays, magnetism is employed for various purposes, from
+renewable energy sources like wind turbines to diagnostic imaging. With
+ongoing investigations into novel materials and future uses, it is still a
+crucial area for study and innovation.
+
+
+
+ 59                      2.1 ELECTRICITY
+         HOW DO MAGNETIC
+          FIELDS BEHAVE
+                    What is a magnetic field?
+                    Magnetic fields are invisible force fields that surround
+                    magnets or moving electric charges. They're created
+                    by the movement of electric charges, such as
+                    electrons, which generate electric currents. These
+                    currents generate magnetic fields. Even though they
+                    can't be seen, they can be detected with instruments
+                    like compasses or magnetometers. The behavior of
+                    magnetic fields is determined by the size and direction
+                    of the electric currents and magnetic materials
+                    involved, making them constantly changing and a bit
+                    unpredictable.
+
+
+Nature of a magnet
+Magnetic fields have a dipolar nature, meaning they have a north and south
+pole. This dipolar nature arises from the orientation of the electrons within
+the magnetic material. The same poles repel each other, while opposite
+poles attract. The strength of the magnetic field is strongest at the poles
+and weaker further away. Magnetic fields can also pass through non-
+magnetic materials, such as air, water, and plastic, making them ideal for
+various applications.
+
+
+Applications
+Magnets and electric charges generate magnetic fields that surround us.
+These fields power electronic devices such as generators, motors,
+transformers, and even hard drives. Magnetic fields are essential for medical
+imaging, particularly MRI scans, which capture detailed images of our organs
+and tissues. Magnetic fields are also behind credit card production, security
+systems, and the levitation of high-speed trains. These unique properties
+make magnetic fields ideal for use in transportation, medicine, and
+telecommunications.
+
+
+
+59                           2.2
+                             2.2 MAGNET
+                                 MAGNET                                60
+         MAGNETISM AND
+           THE EARTH
+                                                Molten Iron
+
+
+
+
+The melting iron in the Earth's core is in constant motion and
+generates electric currents, producing a magnetic field. This magnetic
+field has North and South Poles, similar to a bar magnet. The Earth's
+magnetic field is created by the motion of this molten iron, which is
+heated by the planet's internal processes.
+
+                           Effect on Earth
+                          Earth's magnetic field is generated by the
+                          motion of molten iron in its core, creating a
+                          magnetic field with North and South Poles.
+                          These poles are close to the geographic
+                          North and South Poles. The Earth's magnetic
+                          field protects the planet from harmful
+                          cosmic radiation and charged particles from
+                          the Sun and causes beautiful phenomena
+                          such as the aurora borealis and aurora
+                          australis.
+
+                          The Earth's magnetic field is a vital force
+                          that protects life on our planet by deflecting
+                          harmful cosmic radiation and charged
+                          particles from the Sun. This shield is critical
+                          for preventing harm to living organisms.
+
+
+
+
+61                         2.2 MAGNET
+       WHAT MATERIALS
+        ARE MAGNETIC
+Some basic materials are magnetic.
+Examples include iron, nickel, and
+cobalt. These metals can produce
+magnetic moments because each of
+them has an outer electron shell
+that is partially filled. The electrons
+part of this outer shell makes it so
+that it attracts the protons. These
+magnetic moments are the product
+of the electrons' orbital motion and
+spin, which produce a magnetic
+field.
+
+
+
+
+                                    Individual     atoms'    magnetic
+                                    moments line up with one
+                                    another      in     ferromagnetic
+                                    materials like iron, nickel, and
+                                    cobalt to produce a potent net
+                                    magnetic field. An external
+                                    magnetic field can induce this
+                                    alignment, producing a magnet
+                                    that keeps its magnetization even
+                                    when the external field is
+                                    removed.
+
+
+
+59                        2.2
+                          2.2 MAGNET
+                              MAGNET                             62
+     TYPES OF MAGNETS
+The strongest permanent magnets now on Earth
+are neodymium iron boron (NdFeB) magnets.
+They are created by adding neodymium, iron, and
+boron in a precise ratio, followed by the
+application of a powerful magnetic field. As the
+generated magnet has a high energy density, it
+can be applied to many different things, such as
+electric motors and generators. Because the
+electron arrangement of materials like paper,
+glass, and rubber prevents the formation of
+magnetic moments, these substances are not
+magnetic. These materials' shifting electron
+velocities cancel out any magnetic fields that
+individual atoms might have produced.
+
+
+
+
+In conclusion, the behavior of a material's electrons determines whether
+it has magnetic properties. Metals with partially full outer electron
+shells, like iron, nickel, and cobalt, can produce magnetic moments and
+a net magnetic field. The strongest permanent magnets now on the
+market are neodymium magnets (made with iro﻿n boron (NdFeB) ). Due
+to their electron arrangement, other materials, including paper, glass,
+and rubber, do not possess magnetic characteristics.
+
+
+
+63                         2.2 MAGNET
+             APPLICATION
+Magnetic Fields Experiment:
+                                           BAR MAGNET
+ 1. You will need a bar magnet
+    and iron filings
+ 2. Place the magnet on a flat
+    surface and sprinkle iron
+    filings on top
+ 3. The filings will align
+    themselves along the
+    magnetic field lines, showing          IRON FILINGS
+    the shape of the field
+ 4. You can use a plastic bag or a
+    clear container to keep the
+    filings contained
+ 5. Test with different fillings and
+    metals to see what difference
+    they make, and if they have
+    the same magnetic field
+ 6. Record your experiment             ASSORTMENT OF METALS
+
+
+
+
+                      S
+               N
+
+
+59                      2.2
+                        2.2 MAGNET
+                            MAGNET                        64
+  THOUGHT PROVOKING
+ Can magnets be used to create sustainable
+             energy sources?
+
+
+
+
+                     What factors influence
+                   the strength and direction
+                      of the magnetic field
+                    generated by a magnet?
+
+
+  How do magnetic fields
+affect living organisms, and
+what implications does this
+have for the environment?
+
+
+
+
+65                2.2 MAGNET
+             2.3 HOW DO
+           CIRCUITS WORK
+  How does a electric circuit work and where are
+                  they found?
+
+
+            Questions of the day
+                        Describe circuits in your own
+                        words.
+                        How do you think circuits
+                        play a role in the world of
+                        electricity?
+                        Think of some examples of
+                        circuits which is used in our
+                        daily lives.
+
+
+
+
+KEY WORDS
+Battery
+Light
+Switch
+Parallel
+Series
+Electric
+Circuit
+Light
+Bulb
+
+
+
+            2.3 HOW DO CIRCUITS WORK              66
+    CIRCUITS: THE FLOW
+      OF ELECTRICITY
+                     What is a circuit?
+                     An electric circuit is a closed loop that electricity
+                     passes through. It can be oriented in almost any
+                     shape and size. The circuit is made from individual
+                     components—for example, battery, light bulb, wires,
+                     etc. When all these components are put together in
+                     a certain shape, it creates a path for electricity can
+                     flow continuously. When a switch is installed on the
+                     circuit, you can manually control the flow of
+                     electricity in the circuit.
+
+
+What is a closed and open circuit?
+As mentioned above, a circuit is a
+closed path that helps flow electricity
+effortlessly. A circuit is called a
+"closed circuit" when there is no
+disturbance in the connection and
+the shape is complete. When there
+are no gaps, the electricity passes
+through quickly.
+
+                             Now we all know what a closed circuit is. On
+                             the other hand, an open circuit is the
+                             opposite of a closed circuit. When the
+                             connection is broken, electricity stops
+                             flowing, causing the bulb not to work. This
+                             is caused by a bad connection on the
+                             battery, a light switch in the off position,
+                             and more. An open circuit would mean that
+                             electrons would be lost from the system.
+
+
+67               2.3 HOW DO CIRCUITS WORK
+          COMPONENTS OF
+             CIRCUIT
+                    The battery is the primary power source for the
+
+  Battery           electric circuit. It provides a source of energy for the
+                    light bulb to turn on. However, using only one
+                    battery for an electric circuit is not necessary. You
+                    can run dual batteries if the bulb consumes more
+                    power. On a regular battery, there are two
+                    components, i.e one at the top and one at the
+                    bottom. Those components are called terminal ends,
+                    and they are represented as "+" and "-" as shown in
+                    the diagram given. The "+" symbol at the top
+                    represents the positive terminal. On the other hand,
+                    the "-" represents the negative terminal.
+
+
+                                                     Wires
+The wires in an electric circuit help with the
+flow of electricity from the battery to the
+light bulb so that it can turn on. The wires
+are connected directly from the terminal
+ends of the battery to the connection
+points on the light bulb. In some circuits,
+the wires are connected to a light switch. If
+the wires are damaged or split anywhere,
+the flow of the electricity can get
+disturbed, and the circuit becomes open.
+
+
+      Loads
+                         The light bulb is the most common load also
+                         one of the most critical components in the
+                         electric circuit because it lets us know if the
+                         electricity in the circuit is flowing or not. If the
+                         bulb does not light up, the battery could be
+                         dead, or there is a problem with a circuit, such
+                         as a broken wire, causing it to become an open
+                         circuit.
+
+
+                 2.3 HOW DO CIRCUITS WORK                              68
+             CIRCUIT TYPES
+
+                             What is a Series Circuit?
+                             The series-type circuit lives up to its name.
+                             The light bulbs are connected in one path,
+                             and they are controlled by one light switch.
+                             With series circuits, you do have a few
+                             advantages and disadvantages. One of the
+                             advantages is that you can power
+                             everything with one switch. In a series
+                             circuit, the electricity flows clockwise and
+                             completes one loop. But on the other hand,
+                             it does have its disadvantages. One of them
+                             is that the whole system will shut down if
+                             the connection becomes open.
+
+
+
+What is a Parallel Circuit?
+The parallel type circuit is the opposite
+of a series circuit. The difference
+between the two circuits is that both
+light bulbs are oriented parallelly. It is
+also connected separately from the
+series circuit, where the bulbs are
+connected on one path. A parallel circuit
+also has its own advantages and
+disadvantages. One advantage is that if
+one wire is broken or disconnected, the
+whole system won't shut off; the other
+bulb will stay on. The disadvantage is
+that both bulbs use the same battery,
+which stresses the battery.
+
+
+69               2.3 HOW DO CIRCUITS WORK
+       ALTERNATING AND
+       DIRECT CURRENT
+What is Alternating Current?
+ Alternating Current          An alternating current is where the
+                              electricity in the circuit reverses at a
+                              specific time, which happens periodically.
+                              Alternating     current    has    its    own
+                              advantages and disadvantages. One of the
+                              advantages of AC (Alternating Current ) is
+                              that it is less expensive to generate than
+                              DC (Direct Current). AC current is capable
+                              of traveling long distances. One of the
+                              disadvantages of AC current is that high
+                              voltage is used. High voltage can be very
+                              dangerous to work with because there is
+                              an increased risk of electric shock. AC
+                              current is regularly used for electricity.
+
+
+What is Direct Current?
+Direct Current is the current that flows        Direct Current
+straight in one path. Direct Current or DC
+does not reverse periodically. DC current
+also has its own advantages and
+disadvantages. One advantage is DC
+current is that you can regulate the
+current flow in the circuit, for example
+regulating the speed of a regular DC
+motor. One disadvantage of DC current is
+that the maintenance cost is very high
+compared to an Alternating Current. DC
+current is regularly used for electronics.
+
+
+                2.3 HOW DO CIRCUITS WORK                           70
+   SAFETY COMPONENTS
+What is a Electric Fuse?
+Unlike light switches, fuses are safety components of
+every major circuit. It prevents damage to electrical
+components. The fuse is rated at a specific current rating
+until it blows and creates an open course. An electric
+fuse has a thin metal coil inside where the current flows.
+If there is too much electricity flowing, for example, 30
+volts flowing through a fuse rated at 20 volts, it
+overheats the coil, and the metal separates, causing the
+connection to split. If something like that happens, the
+solution is to swap it out with another 20 volts fuse. A
+fuse with a higher rating should not be replaced with it.
+For example, if a 20-volt electrical appliance is
+connected to the circuit and you install a 30-volt fuse,
+the electricity flow might be excess. If that happens, the
+appliance will get ruined.
+
+         What is a Miniature Circuit Breaker?
+                 Miniature circuit breakers, or MCBs, are another safety
+                 component in an electric circuit. This works the same
+                 way how a fuse works. It has a limitation on the flow of
+                 electricity. MCBs can also work like a light switch in the
+                 circuit. The only difference is that a light switch won't
+                 do anything in case of a current increase. Whenever the
+                 current flowing in the MCB is unusually high, it
+                 immediately trips the switch causing the connection to
+                 cut off. If that happens, we can instantly flip the switch
+                 back to the on position and not spend any money on a
+                 fuse. It is also very helpful when it comes to doing
+                 electrical work. You can instantly cut the power by
+                 flipping a light switch without removing any fuses.
+
+
+
+71               2.3 HOW DO CIRCUITS WORK
+          APPLICATION
+
+Using just batteries, wires, an LED, and a switch,
+build both a parallel and series circuit using what
+you learned.
+
+
+
+
+        Series                  Parallel
+
+
+Explain how you build each circuit and
+how it works. Which circuit seems to be
+more reliable? Which circuit was easier to
+build? Which type of circuit seems more
+likely to be used in real-life settings?
+
+
+
+           2.3 HOW DO CIRCUITS WORK            72
+ THOUGHT PROVOKING
+In the given pictures below, which object is
+   most likely to use alternating current?
+
+
+
+
+What would happen if the electrical current
+  constantly reverses during a circuit?
+
+Why is a plastic material used commonly in
+  electronics? Especially for exteriors?
+
+              In what cases would people
+              pick alternating current over
+                 direct current or direct
+                current over alternating
+                         current?
+
+73        2.3 HOW DO CIRCUITS WORK
+             2.4 CIRCUITS
+ How do electricity and magnets play a role in our
+                      lives?
+
+
+       Questions of the day
+                    Does a magnetic field expire
+                    and lose its field?
+
+                    What do you think happens
+                    when an electric field overlaps
+                    a magnetic field?
+
+                    Is it possible to remove an
+                    object's magnetic field?
+
+
+
+KEY WORDS
+Magnetic
+Electric
+Field
+Circuit
+Attraction
+Transform
+Positive
+Negative
+
+
+
+
+                  2.4 CIRCUITS                    74
+         APPLICATIONS OF
+            CIRCUITS
+Circuits in our Daily Lives
+Now, you might be wondering, how does a circuit affect us?
+
+                                              Circuits provide every utility
+                                              that is around you. For the
+                                              simple day-to-day activities
+                                              that you or your parents use,
+                                              they all use circuits to guide
+                                              and     provide     electricity.
+                                              Everything is run by a circuit,
+                                              from refrigerators to toasters,
+                                              to microwaves, to the lights
+                                              lighting up our streets at
+                                              night.
+
+Everywhere . . .
+Without electricity, our lives would be
+much different. For example, we would still
+be relying on gas and oil as our primary
+power source, which leads to more
+pollution within Earth's atmosphere.
+Without the cleaner alternative of energy
+through electricity, we couldn't have made
+it this far in the first place!
+
+
+
+
+75                        2.4 CIRCUITS
+         APPLICATIONS OF
+            CIRCUITS
+  Magnets in Nature & their Applications
+              There are only a few natural magnets in nature. Although
+              they may not seem important, they are responsible for
+              many of the magnetic properties found in magnets today.
+              Many magnets are usually made as an alloy (a combination
+              of raw metals and heat) of these metals, resulting in a
+              powerful magnet.
+
+
+                 Raw Metals                Heat        Strong Magnetic Alloy
+
+
+
+
+Magnets in our Daily Lives
+Like circuits, magnets play a big role in our lives.
+Much of modern transportation relies on
+magnets as motors, which power the wheels on
+cars and motorcycles, are made by their
+properties. Additionally, the faster train on Earth
+right now is the Magent-based bullet train in
+Japan. Have you ever experienced going to the
+dentist? Well, then you have experienced the
+force of a magnet! X-rays that doctors take of
+your teeth use magnets to see, well, your teeth!
+Much of modern medicine also contains
+magnets.
+
+
+
+                              2.4 CIRCUITS                           76
+   CIRCUITS & MAGNETS:
+      RELATIONSHIPS
+Their Mutual Connection
+Electricity and Magnetism are closely related. They have an
+inverse relationship, in which flowing electrons from an electric
+field will produce a magnetic field, and spinning magnets can
+create an electric current.
+
+
+
+
+Many applications of circuits and magnets use a combination of
+both electricity and magnets. For example, a motor uses
+electricity (powered by gas or some equivalent) to start itself
+and spins magnets really fast to generate electricity for the car
+to run on.
+
+
+
+77                      2.4 CIRCUITS
+   ELECTROMAGNETISM
+The Combination
+What happens when a magnetic field and an electric field combine?
+Well, you get something called electromagnetism. This force is one of
+the four fundamental forces of nature, as creates a new sort of field,
+titled: the electromagnetic field. The electromagnet force is what binds
+atoms together and allows magnets to work. The concept of
+electromagnetism was proved by Albert Einstein, as he showed the
+relationship between both electric and magnetic forces.
+
+
+Electromagnetic Spectrum
+Electromagnetism also describes the various kinds of
+waves in our everyday science. Thanks to a specific
+spectrum of electromagnetic waves, we can do
+multiple different tasks in our daily lives. These
+waves are radio waves and microwaves to X-rays and
+gamma rays.
+The visible light spectrum is just a tiny part of the electromagnetic
+spectrum, and it contains the wavelengths for all the colors visible to the
+human eye. The spectrum works by sorting the different waves by
+frequency, or number of wave cycles per second, with radio waves having
+the lowest frequency, the longest wave length, and gamma rays having
+the highest frequency, the shortest wavelength. This is why a sunset is
+red and orange, as those colors can disperse in the sky easier due to their
+longer wavelengths, which allow them to travel longer distances.
+
+
+
+
+Electromagnetism plays a crucial role in technology. It creates many
+different fields of jobs, including electrical engineering, production,
+electronic    communication,     and   light/heat/sound     distribution.
+Electromagnetism is used in radio communication, electronics, the
+internet, speakers, and so much more!
+
+
+
+                            2.4 CIRCUITS                            78
+          APPLICATION
+
+Explain how magnetic force plays a major role in
+electric motors.
+
+
+
+
+How did old Fashion Compasses work to get
+sailors to their destinations in the olden days?
+
+
+
+
+79                2.4 CIRCUITS
+ THOUGHT PROVOKING
+
+           Which is stronger?
+
+
+
+
+A naturally found magnet or a magnet created
+           through artificial means?
+
+
+
+Is an electromagnet or a magnet stronger?
+
+
+
+
+                2.4 CIRCUITS             80
+ 2.5 ELECTROMAGNETS
+ What are electromagnets and how are they made?
+
+
+         Questions of the day
+                       How do magnets work?
+
+                       What metals have magnetic
+                       properties?
+
+                       What uses of magnets can be
+                       seen in our everyday lives?
+
+                       Magnets have two sides. One
+                       is North. What is the other
+                       called?
+
+
+
+
+KEY WORDS
+Magnet
+Electric
+Compass
+Iron
+Electromagnet
+Nickel
+Copper
+Wire
+Field
+
+
+
+
+81              2.5 ELECTROMAGNETS
+           HISTORY OF THE
+              COMPASS
+                                  Compass
+                       By definition, a compass is a magnet that
+                       always points north. Compasses are used to
+                       help people figure out which direction is
+                       north which helps them navigate. Sailors and
+                       hikers commonly use compasses. Compasses
+                       were said invented in Ancient China around
+                       1000 years ago, but the Vikings used a very
+A compass always       old type of compass almost 3000 years ago!
+   points north
+
+
+
+Other early tech with magnets
+You've learned about the compass,
+one of the earliest techs that used
+magnets. Another example of early
+magnetic tech is the cow magnet. A
+cow magnet was used to stop metal
+that a cow could accidentally eat
+from traveling farther inside the cow,
+which caused more damage.
+
+
+
+Fun Fact: A cow magnet actually goes inside the cow! It stops
+metals from traveling farther inside the cow by using its magnetic
+forces, which attract the metal to the magnet.
+
+
+
+
+                   2.5 ELECTROMAGNETS                           82
+ HOW COMPASS WORKS
+
+
+
+
+Ever wondered how a compass knows which way is North? Well, it's all
+thanks to the Earth itself! You see, the Earth is like this huge magnet. It
+has a North pole and a South pole, just like the magnets you might have
+played with.
+A compass is designed with a special needle or magnetized bar that can
+move freely. One end of the needle is attracted to the North Pole, while
+the other end is pulled towards the South Pole. When you hold the
+compass flat, the needle automatically lines up in a North-South
+direction. This clever alignment allows us to figure out which way is
+North.                                        This orange layer is what gives
+                                               Earth its magnetic properties
+
+Earth's Magnetic North Pole
+Earth's actual north pole and magnetic
+north pole are not precisely the same.
+They are about 1200 miles apart. That
+number might seem significant, but the
+Earth itself is so huge that it barely makes
+a difference. Earth's magnetic north pole
+changes! The magnetic properties come
+from the iron core, which slowly rotates.
+In 250 million years, the magnetic north
+pole will be on the South pole!
+
+
+83                    2.5 ELECTROMAGNETS
+      ELECTROMAGNETS:
+       WHAT ARE THEY?
+An electromagnet is a magnet made out
+of electricity. A simple electromagnet
+consists of a wire wrapped around a
+metal pole. The great thing about an
+electromagnet is that you can change
+how strong you want it to be. The image
+on the right is a simple electromagnet;
+the battery sends electricity into the
+wire, which then magnetizes the nail,
+making it a magnet. All electromagnets
+have coils that pass electricity. As these
+coils turn, the electric current passing
+through the coils works to form a
+magnetic field. It is this magnetic field
+that creates the magnetic abilities of an
+electromagnet.
+                             In Real Life
+                             Have you ever wondered how your
+                             headphones work? How about motors,
+                             generators, or an electric doorbell? They all
+                             use electromagnets! Everyday appliances
+                             that you use contain electromagnets. On
+                             the left is a headphone. Headphones are
+                             very common, especially among teenagers.
+                             Some other common household appliances
+                             that    use   electromagnets     are   fans,
+                             refrigerators, and microwaves ovens.
+                             Clearly, electromagnets play a significant
+                             role in and around our house. Learning
+                             about these things can help us right now
+                             and in the future.
+
+
+
+                     2.5 ELECTROMAGNETS                              84
+      ELECTROMAGNETS:
+          EXAMPLES
+Common items that use                           The electromagnet
+electromagnets:                                  in the microwave
+   Vacuum Cleaners
+   Refrigerators
+   blenders
+   driers
+   Microwaves
+   Dish washers
+Without electromagnets,
+our lives would be way
+harder!
+Microwaves, like many other machines, utilize electromagnets in their
+operation. Electromagnets are created by passing an electric current
+through a wire coil, generating a magnetic field. This magnetic field can
+be manipulated to achieve specific functions within the microwave.
+In a microwave, the main component that employs an electromagnet is
+the magnetron. The magnetron is responsible for generating the
+microwaves that heat up food. Inside the magnetron, there is a vacuum
+tube that houses a filament, a series of resonant cavities, and a
+magnetron antenna.
+When the microwave is turned on, an electrical current is supplied to
+the filament, causing it to heat up and release electrons. These
+electrons are accelerated by high voltage and move toward the
+resonant cavities. As the electrons move through the cavities, they
+interact with the magnetic field generated by the electromagnet.
+
+
+
+85                  2.5 ELECTROMAGNETS
+        BUILDING AN
+      ELECTROMAGNET
+Materials:
+   wire
+   any battery
+   iron nail
+   any magnetic objects
+
+
+Directions:
+ 1. Wrap the wire around the
+    nail, as many times as
+    you'd like.
+ 2. Tape one end of the wire
+    to the positive side of the
+    battery, and the other end
+    to the negative side.
+ 3. You have an
+    electromagnet! Try using
+    it to pick up any magnetic
+    objects around your
+    house, like iron fillings or
+    an actual magnet.
+
+
+               2.5 ELECTROMAGNETS   86
+    BUILDING A COMPASS
+
+     THE HIKER'S DILEMMA
+                                John was hiking through the woods
+                                and got lost. He had a piece of cork,
+                                a bowl, a bottle of water, a magnet,
+                                and a needle in his bag. Help him
+                                build a magnet! Make sure to have
+                                adult supervision in this activity!
+
+                          Directions:
+Step 1: Take the cork and cut off
+1/4 an inch of the cork to make a
+            cork disk
+
+                                 Step 2: Magnetize the needle by
+                                  rubbing it on the magnet. This
+                                 temporarily transfers magnetic
+                                    properties to the needle.
+
+
+ Step 3: Push the needle through
+         the cork like this
+
+
+                                     Step 4: Pour the water in the
+                                     bowl and place the cork with
+                                      the needle inside the bowl
+    Your compass is finished! John thanks you for helping him build a
+                                compass!
+
+
+87                  2.5 ELECTROMAGNETS
+ THOUGHT PROVOKING
+
+What causes Earth's
+  Magnetic pole to
+ change? (Hint: the
+answer lies in one of
+   Earth's layers)
+
+
+                  Give an example of
+                   a household item
+                      that uses an
+                    electromagnet.
+
+  Explain how the
+object works using
+the electromagnet.
+  Look online for
+       help!
+
+          2.5 ELECTROMAGNETS      88
+ 2.6 PENNY BATTERIES
+     What makes a penny such a good battery?
+
+
+Questions of the day
+                    What is electricity and how is
+                    it created?
+
+                    How does a penny conduct
+                    electricity?
+
+                    How can you tell if a battery
+                    is "dead" or still has some
+                    charge left in it?
+
+
+
+
+KEY WORDS
+Battery
+Zinc
+Copper
+Electricity
+Power
+Energy
+Vinegar
+Voltmeter
+Scissors
+
+
+
+
+89            2.6 PENNY BATTERIES
+         ELECTRICITY AND
+            BATTERIES
+What is Electricity?
+Electricity is a form of energy resulting from the
+movement of charged particles, such as electrons
+or ions. It is generated by various means, including
+chemical reactions, electromagnetism, and
+nuclear reactions. Electricity is used to power a
+wide range of devices and systems, from small
+electronic devices such as smartphones and
+computers to large power grids that supply
+electricity to cities and industries. Electricity is a
+fundamental part of modern life and is used for
+lighting,       heating,     transportation,      and
+communication, as well as powering many other
+applications.
+
+What are Batteries?
+A battery is a device that converts stored chemical energy into
+electrical energy. Batteries are composed of one or more
+electrochemical cells consisting of two electrodes (an anode and a
+cathode) separated by an electrolyte. The chemical reactions that
+occur within the battery cause electrons to flow through an external
+circuit, producing an electrical current that can be used to power
+various devices. Batteries power a wide range of devices that we use
+daily, including smartphones, laptops, tablets, remote controls,
+flashlights, and toys. They are also used in larger items such as cars,
+boats, and airplanes and are essential for powering portable and
+wireless devices. Without batteries, many of our daily activities would
+be much more challenging and inefficient.
+
+
+
+                       2.6 PENNY BATTERIES                       90
+       WHAT IS A PENNY
+         BATTERY?
+Penny Batteries
+Penny batteries, also known as voltaic cells,
+are a type of battery that can be made at
+home using simple materials like copper
+coins, zinc nails, and vinegar. They are called
+penny batteries because they can be made by
+                                                 An electric current is
+using pennies as one of the electrodes, an
+                                                 produced through the
+electrical conductor used to contact the
+                                                   movement of ions
+nonmetallic part of a circuit. The concept of
+                                                through an electrolyte,
+voltaic cells dates back to the late 18th
+                                                 a conducting medium
+century when famous Italian physicist
+                                                     that conducts
+Alessandro Volta discovered that two
+                                                electricity through the
+different metals separated by an electrolyte       movement of ions
+(a conducting medium that conducts present in the medium.
+electricity through the movement of ions
+present in the medium) could produce an
+electric current.
+
+
+
+Simple Science
+A penny battery uses two different kinds of
+metal, like a copper penny and a zinc nail, and
+a special liquid called an electrolyte made
+from vinegar and salt. When the metals and
+the electrolyte are put together correctly, a
+chemical reaction occurs, generating a tiny
+amount of electricity.
+
+
+
+
+91                  2.6 PENNY BATTERIES
+        CAPABILITIES AND
+            SAFETY
+Uses of a Penny Battery
+Although penny batteries are not very powerful, they can still be used
+to power small electronic devices or science experiments that require
+low levels of electricity. One example of a device that penny batteries
+can power is an LED light. By connecting several penny batteries in a
+series, it is possible to create a circuit that will light up an LED, which
+can be used as a small emergency source of light. Another example of
+a device that can be powered by penny batteries is a small motor or
+generator. By connecting a penny battery to a simple motor made
+from a magnet and a coil of wire, it is possible to create a simple
+electric motor that can be used to power a toy or other small devices.
+
+
+
+Proper Safety Measures
+When working with batteries and electricity, it's essential to be aware
+of safety concerns such as electrical shocks, chemical burns, fires,
+and explosions. To mitigate these risks, wear appropriate protective
+equipment, such as full-sleeved clothing, gloves, and protective
+glasses. Also, please store batteries in a cool, dry place. Follow the
+proper instructions when using and charging batteries, and turn off
+the power supply before working on electrical equipment. Keep a fire
+extinguisher and first aid kit on hand in case of a fire, and educate
+yourself on how to respond quickly and safely if an accident occurs.
+
+
+
+
+                       2.6 PENNY BATTERIES                          92
+        BUILDING A PENNY
+            BATTERY
+                         Materials
+        Five pennies (after 1982 pennies), mat board, a
+        piece of 100-grit sandpaper, salt, wires, water,
+                  vinegar, and a red LED light
+
+
+                       Instructions
+1. Make a saturated salt water solution by
+mixing 2 tablespoons of salt in a glass of
+water until the salt no longer dissolves.
+Then, add a spoon of vinegar to the
+solution. While doing so, cut the mat
+board into 4 separate 1/2-inch squares.
+
+
+                 2. Soak the mat board pieces in the salt-and-
+                 vinegar solution. Once the pieces are thoroughly
+                 wet, take them out and place them on a paper
+                 towel so they are still damp but not dripping. Use
+                 sandpaper to remove the copper from one side of
+                 each of the four pennies, and leave the fifth penny
+                 intact. Sand until you see zinc (a shiny silver color)
+                 covering the entire face of the coin. When you're
+                 done, the sanded coins should have a bronze-
+                 colored copper side and a silver-colored zinc side.
+
+
+
+
+93                  2.6 PENNY BATTERIES
+        BUILDING A PENNY
+            BATTERY
+3. Take one of your sanded pennies with the
+zinc side facing up (copper side down), and
+place a damp piece of mat board on it. Then
+repeat the process, stacking the pennies on
+top of each other in the appropriate order
+(zinc side facing up) with a damp 1/2-inch
+piece of mat board in between each penny.
+Finally, place the unsanded penny at the
+very top.
+
+
+
+                               4. Lastly,    connect the LED to the
+                               penny by      placing one wire at the
+                               bottom of     the stack and one at the
+                               top. Your      LED should be shining
+                               bright red!
+
+
+
+
+How does this work?
+Batteries convert chemical energy into electrical energy using two
+metal electrodes and an electrolyte. Pennies made after 1982 have zinc
+cores that can create a zinc electrode when sanded. By stacking
+pennies and matboards soaked in salty vinegar water, you can create a
+voltaic pile or battery, generating over 0.6 volts per cell. A stack of
+three cells is enough to power a red LED, which is visible throughout
+this experiment.
+
+
+
+
+                     2.6 PENNY BATTERIES                          94
+     APPLICATION
+
+              Suppose you live in a
+             rural area with limited
+              access to electricity.
+               How could you use
+               penny batteries to
+            power a small electronic
+             device like a flashlight
+                    or radio?
+
+What materials would you use
+ to build the penny battery?
+
+
+
+
+95     2.6 PENNY BATTERIES
+ THOUGHT PROVOKING
+How can the principles behind the penny battery
+    be applied to other fields of science or
+                 engineering?
+
+
+
+
+  For example, can batteries be used to store
+ renewable energy or power electric vehicles?
+
+
+                 What are the environmental
+              impacts of batteries, and how can
+               we minimize the negative effects
+              of their production and disposal?
+
+
+
+    What are some historically
+famous or new inventions where
+ batteries have played a critical
+  role in technology or society?
+
+
+              2.6 PENNY BATTERIES           96
+Page Intentionally left blank
+OBJECTS IN
+ MOTION
+
+
+
+
+   CHECK OUT
+  OUR YOUTUBE
+   CHANNEL!
+ 3.1 NEWTONS LAWS
+What are Newtons Laws and how do they
+       appear in today's society
+
+            Questions of the Day
+                      Who is Isaac Newton?
+
+
+                      Why do your feet hurt after you
+                      jump from a height?
+
+
+                      How do the mass and acceleration
+                      of an object affect the force of the
+                      object?
+
+
+
+
+ Key words
+ Gravity
+ Friction
+ Force
+ Acceleration
+ Mass
+ Weight
+ Rest
+ Normal
+
+
+
+
+98              3.1 NEWTONS LAWS
+         ISAAC NEWTON
+
+                              Isaac Newton, born in England in
+                              1643, is famous for his contributions
+                              to the field of physics. Newton lived
+                              during the Scientific Revolution, a
+                              period when our understanding of
+                              nature     began    to    shift   from
+                              preconceived religious ideas to a basis
+                              in     observations     and     logical
+                              interpretations    of    the     world.
+                              Enlightened by this new approach to
+                              science, Isaac Newton studied a range
+                              of concepts, from fundamental math to
+                              astronomy.
+
+Discovery of Gravity and Laws
+You might already be familiar with Isaac Newton's discovery of
+gravity. The story goes that after being struck on the head by a
+falling apple, Newton realized that there was an invisible force
+acting on the apple, causing it to fall to Earth. He referred to this
+force as gravity, a term derived from the Latin word for "heavy."
+But as you know from the first unit, the weight of an object
+doesn't effect how much gravity the object experiences.
+
+
+
+
+                   3.1 NEWTONS LAWS                                99
+          THE FIRST LAW
+An object at rest stays at rest, and an object in motion
+ will stay in motion unless acted upon by a net force.
+        Before:                                    After:
+
+
+  Important Definitions:
+  Rest: When an object is not moving and has no acceleration.
+  Net Force: This is the combination of all forces acting on an
+  object. When the net force is zero, the object is considered to be
+  either not moving or at rest.
+
+
+  Imagine This!
+After a very busy day at school, you realize that you have left your
+favorite pencil on your desk in class. When you arrive at school the next
+day, you find the pencil exactly where you left it. According to
+Newton's First Law, this is because no net force was exerted on the
+object; therefore, the object remained in a state of rest, or in other
+words, did not move.
+
+The second part of the law, which states that an object in motion will
+stay in motion, is somewhat more difficult to grasp because, on Earth,
+forces are always at play. When we roll a ball, it eventually stops
+moving due to friction. However, if no forces were acting on the ball, it
+would roll indefinitely. Imagine an environment devoid of forces, or
+visualize an extremely slippery surface that never slows you down -
+consider, for example, a golf ball in space.
+
+
+
+100                  3.1 NEWTONS LAWS
+      THE SECOND LAW
+  Newton's Second Law: Force = Mass * Acceleration
+
+Important Definitions
+Mass: the ability of an object to resist a change in motion or the
+amount of matter (stuff) in an object and is measured in
+kilograms (kg).
+Acceleration: change in speed over time and is measured in
+meters per second squared ( )
+
+
+                      Sheldon's Mass: 75 kg
+
+                      Sheldon's Acceleration: 2
+
+                      What is Sheldon's Force?
+                      Wrong Answer: 150
+                      Correct Answer: 150 Newtons (N) -
+                      remember to use proper units for force
+
+
+How can we make Sheldon more powerful
+or have a greater force? Well, we have two
+options. We can either increase his mass or
+we can train him to accelerate faster. Let's
+say we decide to do the second option.
+Now, Sheldon has a new acceleration of 3
+
+Since his acceleration has increased,
+Sheldon's force also increases by the same
+factor. After doing the calculations, his      225N
+force comes out to be 225 N!
+
+
+
+
+                   3.1 NEWTONS LAWS                              101
+          THE THIRD LAW
+       For every action force, there is an equal and
+                 opposite reaction force.
+Newton's Third Law states that when two objects collide or touch, the
+forces exerted on each object are equal and opposite. For example,
+when you high-five your friend, both hands will experience the same
+force, but in opposite directions. One hand will experience a force,
+while the other hand will experience an equal and opposite force. If
+you experienced a force of 100N to the right, your friend would
+experience the same 100N force, but to the left.
+
+
+
+    100N                  100N
+
+Let's go back to the example of the
+pencil that you left on your desk.
+We concluded that the pencil did
+not move because there was not a
+net force on the pencil. But what
+about gravity? Doesn't that create
+a force on the pencil?
+Indeed, gravity does exert a force on the pencil. However, what we
+haven't accounted for is the equal and opposite reaction between the
+pencil and the table. The weight of the pencil on the table is
+counteracted by a force from the table on the pencil, known as the
+normal force, which comes into play when two objects are in contact
+with one another. Normal forces act perpendicular (at 90 degrees) to
+the contact surface between the two objects. Since the normal force
+and the weight of the pencil are equal and opposite, they cancel each
+other out, resulting in a net force of 0. This means the pencil remains at
+rest.
+
+
+102                  3.1 NEWTONS LAWS
+      PENNY DROP LAB
+    Essential Question: How does varying the applied
+  force/acceleration on a system change the outcome
+       when friction is present in the experiment.
+Procedure:
+1. Set a cup on a flat surface
+2. Put an index card over the
+cup
+
+3. Put a penny on top of the                          Slow
+index card
+                                                       Pull
+4. Slowly pull the index card
+away from the cup in a straight
+line and observe what happens
+to the penny
+
+5. Flick the index card away
+from the cup (parallel to the
+top of the cup) and observe
+what happens to the penny
+
+6. Repeat until you answer:
+                                                    Fast
+Why did the pennies move as                         Pull
+ they did in both situations?
+    Intended Outcome: In the first situation, the penny
+    moved with the index card. In the second, the penny
+                     fell into the cup.
+
+
+                   3.1 NEWTONS LAWS                       103
+THOUGHT PROVOKING
+
+In real life, objects that hit projectiles have recoil,
+backward propulsion that occurs in response to a
+hit. Consider a baseball bat that hits a baseball
+with a mass of 0.2 kilograms with an acceleration
+of 400 m/s^2.
+
+
+
+
+1. What law explains why the batter experiences
+   recoil?
+2. What is the force of baseball in Newton? (hint:
+   consider units)
+3. What modifications can be made to the bat, the
+   ball, and/or the surrounding environment to
+   ensure less recoil and therefore, make the bat
+   more controllable for new players?
+
+
+
+104            3.1 NEWTONS LAWS
+3.2 TYPES OF ENERGY
+
+What are the different types of energy in
+              our world?
+
+Questions of the day
+                Why is it that a bullet being fired
+                would result in more energy
+                being released than a person
+                running?
+
+
+
+ What is one of the reasons that
+ an airplane can fly so high?
+
+
+
+
+ Key words
+ Energy
+ Potential
+ Kinetic
+ Acceleration
+ Elastic
+ Chemical
+ Velocity
+ Weight
+
+
+
+
+                3.2 TYPES OF ENERGY                   105
+      WHAT IS ENERGY?
+    Energy                 By definition, energy is the capacity to do
+                           work. It exists in various forms, such as kinetic
+                           energy, potential energy, and elastic energy.
+                           Energy is constantly transitioning from one
+                           form to another. Just as mass can be measured
+                           in kilograms and height in inches, energy can
+                           be measured in units called Joules (J) or
+                           Kilojoules (kJ). Energy cannot be created or
+                           destroyed, and every object with mass
+Since Sheldon here has     possesses energy.
+  mass, he has energy
+
+
+ Important Definitions
+                                                         This rubber band
+    Energy - the ability to do work                        has a spring
+    Velocity - how fast an object is                     constant of 0.81
+
+    traveling in a given direction
+    Gravity Constant - the downward
+    acceleration of gravity on Earth
+    (always 9.81)
+    Spring Constant - a measure of how
+    stiff a spring (e.g. rubber band) is
+    Acceleration - the rate at which
+    velocity changes
+
+                                                             The acceleration
+                                                             of gravity pulling
+                        Sheldon is                           Sheldon down is
+                       running at a                          9.81 meters per
+                      velocity of 23                         second squared
+                     m/s to the right
+
+
+
+
+106                      3.2 TYPES OF ENERGY
+      KINETIC ENERGY
+ Kinetic energy can be defined as the energy an object possesses
+ due to its motion, and it varies based on the object's mass. For
+ example, a runner possesses kinetic energy because they are in
+ motion. The runner's kinetic energy can change depending on
+ their mass and the speed at which they are running.
+
+
+
+
+ Kinetic Energy                      Mass      Velocity squared
+                                                  (this means
+
+Example:
+                                            velocity times velocity)
+
+
+                        Martha is walking. As she has a definite
+                        body weight and some velocity (walking
+                        speed) she has kinetic energy. If her mass
+                        was 100 kilograms and her velocity was 25
+                        meters per second left, calculate the
+                        kinetic energy of Martha using the equation
+                        for kinetic energy.
+
+
+                        She hears someone calling behind her and
+                        quickly snaps around and starts to walk
+                        towards them. What is the change in
+                        kinetic energy if she starts walking
+                        backward at the same speed?
+
+
+
+
+                  3.2 TYPES OF ENERGY                         107
+  POTENTIAL ENERGY
+Potential energy can be defined as the energy stored in an object
+based on its position and mass. It is often understood as the energy
+that can be converted into another form. For example, when a
+runner begins to run, their potential energy is converted into kinetic
+energy. Similarly, when you knock a book off a desk, its potential
+energy is converted into kinetic energy.
+
+
+
+
+Potential Energy           Mass         Gravity    Object's
+                                        constant    height
+                                      (9.81 m/s^2)
+Sheldon and Jenna are standing on a hill and, therefore, possess
+potential energy. However, because Sheldon is standing at a
+higher elevation than Jenna, he has more potential energy.
+
+
+ Example:                    If Sheldon is standing 100 meters high
+                             off the ground, and Jenna is standing
+                             50 meters above the ground, and both
+                             of them have a mass of 50 kilograms,
+                             what's the difference in potential
+                             energy between both of them?
+
+
+
+
+108               3.2 TYPES OF ENERGY
+       ELASTIC ENERGY
+Elastic energy, also known as spring potential energy, can be defined
+as the energy stored in an object when it is being stretched or
+compressed. For instance, a stretched rubber band possesses elastic
+energy. The amount of elastic energy depends on the spring constant,
+which measures the stiffness of the object, and the horizontal
+distance that the object travels when stretched.
+
+
+
+
+                             Spring            Horizontal distance
+Elastic Energy                                traveled squared (this
+                            Constant
+                                               means the horizontal
+                                             distance traveled times
+Example:                                              itself)
+
+                     Bouncy balls and stretched rubber band
+                     possess elastic energy because it has moved a
+                     distance from its original position around one
+                     thumb. This is due to the inherent spring
+                     constant within rubber bands.
+                     If the rubber band is stretched 0.85 meters
+                     and has a spring constant of 0.6, what is the
+                     elastic energy of the rubber band?
+
+                     Challenge question: If a rubber band with a
+                     spring constant of 0.85 holds energy of 57 J
+                     when stretched, how far has it been
+                     stretched?
+
+
+                   3.2 TYPES OF ENERGY                         109
+ CHANGES IN ENERGY
+While energy cannot be created or destroyed, it can be transformed
+into another type of energy. For instance, potential energy can be
+converted into kinetic energy and kinetic energy can be reverted
+back to potential energy. However, the pivotal question is, when
+does this transition occur?
+
+
+Potential to Kinetic & Kinetic to Potential
+When an object at rest starts
+moving, its potential energy is
+converted into kinetic energy.
+In   the    example      below,
+Sheldon's potential energy is
+converted into kinetic energy
+once    he   starts    running.
+Conversely, his kinetic energy
+is   converted     back    into
+potential energy when he
+stops.
+
+Elastic to Kinetic & Kinetic to Potential
+When a spring (e.g. rubber band) is launched, its elastic energy is
+converted into kinetic energy, and its kinetic energy is converted into
+potential energy once it hits the ground.
+
+
+
+
+110                3.2 TYPES OF ENERGY
+              APPLICATION
+      Experiment#1:                     Experiment#2:
+      Elastic Energy                    Kinetic Energy
+1. Take any rubber band               1. Stand on a scale (mass)
+2. Extend it back a bit (2-3 cm)      2. Walk exactly 30 ft and have
+3. Launch it                            someone time you
+4. Record how far it lands            3. Repeat steps 1-2 while
+5. Repeat steps 1-3 except              jogging
+  extend it as far back as you can    4. Repeat steps 1-2 while
+  this time                             sprinting
+
+
+
+
+                                                                   30 ft
+
+
+                                Questions?
+ 1.    Did the rubber band travel       1.    What was your kinetic
+      more distance when extended              energy each time?
+      farther back or extended back     2.     How did your kinetic
+               only a little?                energy change when you
+ 2. Why do you think this is? (You             walked, jogged, and
+      need to mention formula(s) in                 sprinted?
+               your answer).
+
+
+
+                   3.2 TYPES OF ENERGY                             111
+THOUGHT PROVOKING
+
+                       If Sheldon, who has a
+                       weight of 28.0 N, jumps
+                       off of a big spaceship,
+                       10,000 meters high onto
+                       an undiscovered planet
+                       and falls at a constant
+                       speed of 28.0 m/s, what is
+                       his potential energy as he
+                       falls on a clifftop 1 minute
+                       later?
+
+
+
+
+ Is it possible for
+ potential energy to
+ be negative? If so,
+ when? If not, why
+ not?
+
+
+
+112           3.2 TYPES OF ENERGY
+   3.3 SYSTEMS AND
+      REFERENCES
+     What is the importance of
+ understanding the scope of motion?
+
+Questions of the day
+                        Is it possible to have a
+                        negative acceleration but still
+                        have a positive velocity? If
+                        so, how?
+
+
+                        Why do you feel like you are not
+                        in motion when you are in a
+                        plane?
+
+
+
+
+Key words
+ Reference
+ System
+ View
+ Position
+ Orientation
+ Open
+ Closed
+ External
+ Relative
+
+
+
+               3.3 SYSTEMS AND REFERENCES          113
+                  SYSTEMS
+A system can be defined as a collection of objects. Let's consider
+the pencil box that you take to school. If I were to ask you what
+objects the pencil box system contains, you would list items like
+an eraser and a pencil. Now, what if I asked you to name objects
+within a school system? Well, things such as teachers, students,
+chairs, classrooms, and whiteboards are all part of a school, and
+therefore, belong to the school system. Now, what if I asked you
+about an Earth system? An Earth system would encompass
+absolutely everything that exists on Earth, including forces and
+atoms! Why do we make the effort
+                                             Earth System
+to identify or refer to clusters of
+objects     as    systems?    Well,
+recognizing a system simplifies
+the      problem       at    hand.
+Understanding the type of system
+you are working with allows for
+easier comprehension of every
+variable    within   that  system,
+including forces, energy, and the
+individual items themselves.
+
+            Car System             You       have      first-hand
+                                   experiences    with   systems
+                                   every day. For example, when
+                                   you are in a car, you don't
+                                   feel its movement. This is
+                                   because you are a part of the
+                                   car's system and the car is
+                                   traveling the same speed as
+                                   you are.
+
+
+
+
+114 3.3 SYSTEMS AND REFERENCES
+                     SYSTEMS
+Look at the unknown system on the
+right. The objects belonging to the
+                                              Parts of the System
+system are a pencil box and a desk. For
+an easier understanding, I will refer to
+the system as a box-desk system. Now I
+need you to refer to prior knowledge.
+What forces are present in the system?
+The two obvious ones would be a gravity
+                                               Whole System
+force and a normal force exerted on the
+box by the table. While there is probably
+a frictional force present, let's disregard
+that for now. Notice that none of the
+objects within the system are moving.
+This means that none of the objects are
+accelerating   and    so   according    to
+Newton's second law (F=ma), there is a
+net force of 0 within the system as there
+is no acceleration or movement.
+
+
+SELF-REFLECTION ACTIVITY
+Think of a game you have played recently. Name the system. Think
+about what kind of characters or avatars are available. What is the
+game's currency?
+
+Example Answer: The game I am thinking of is called Fortnite Battle
+Royale and I will name the system the "Tilted Tower system", named
+after one of the locations in the game. The system contains many
+skyscrapers and the location is known for having a building that gets
+destroyed by a meteor every few months. This location has a lot of
+moving characters trying to beat each other and get the win.
+
+
+
+                  3.3 SYSTEMS AND REFERENCES                  115
+  TYPES OF SYSTEMS
+ CLOSED SYSTEMS
+ Closed systems are systems in which matter is contained and not
+ allowed to exit the system. The universe serves as an example of a
+ closed system because matter cannot leave or enter it. In physics,
+ a closed system can also be defined as a system where external
+ forces are not considered to act on an object, although energy
+ exchange with the surroundings is permitted.
+
+
+                             Similar to the
+                           prisoner or a cup
+                           of coffee in a cup,
+                          the matter is jailed
+                            within a closed
+                          system and cannot
+                                escape.
+
+ OPEN SYSTEMS
+ Open systems, as the name suggests, allow the transfer of
+ various elements through them. Your pencil box serves as an
+ example of an open system because it is frequently opened
+ and objects are placed into or taken out from it. In physics, an
+ open system can also be defined as a system where external
+ forces are present. As these external forces are exerted, they
+ can cause the system to lose energy.
+
+
+                            The stovetop is an example of an open
+                            system because matter escapes into
+                            the atmosphere in the form of carbon
+                            monoxide.
+
+
+
+
+116 3.3 SYSTEMS AND REFERENCES
+               REFERENCES
+
+                         References
+                         Reference is a strange concept to grasp.
+                         Whether or not you know what the term
+                         means, you probably already have a loose
+                         idea of it. References establish some sort of
+                         relationship between objects. For example,
+                         setting my classmates as a reference, I sit 5
+                         feet away from them in school. Easy right? In
+                         physics, however, relativity becomes more
+                         than a 2-dimensional concept. In physics,
+                         references describe the motion, orientation, or
+                         position of an object in regard to other(s).
+
+
+Train vs Car Reference
+Let's examine the visual on the right.
+A car and a train are moving                    10 m/s
+alongside each other but in different
+directions. First, let's consider the
+car's motion as our reference. In this
+reference frame, the train is moving
+at 40 m/s, but in the opposite
+direction. If the car were not
+moving, it would appear that the
+train is moving at 30 m/s relative to               30 m/s
+our assumed reference. However, if
+the car were moving at 10 m/s in the
+same direction as the train, it would
+appear to the car that the train is
+moving at 20 m/s, as that is the
+difference in their speeds.
+
+
+                  3.3 SYSTEMS AND REFERENCES                      117
+ REFERENCES (CONT.)
+
+Directional References
+The first step to solving any physics problem is choosing a
+reference, which is how you look at something. In other words,
+this means identifying 1. the direction an object is traveling
+and 2. whether that direction will be a positive or negative
+direction. Consider gravity for example: some people say that
+gravity is a negative value because it goes downwards while
+others maintain that it is a positive value. This is because they
+use the opposite reference that uses the "up" direction as the
+positive direction. Sometimes calculations with an opposite
+reference tend to be easier as positive numbers are more
+calculation friendly.
+                                   The coordinate axis on the
+                                   left is known as the "standard
+                                   reference." In the standard
+                                   reference,     the     positive
+                                   direction is considered to be
+                                   up and right, while the
+                                   negative direction is down
+                                   and left. Following this
+                                   reference, gravity is regarded
+                                   as a negative value in
+                                   calculations because it always
+                                   acts downward.
+
+
+
+
+118 3.3 SYSTEMS AND REFERENCES
+           APPLICATION
+
+A spring with a mass
+attached to it is hanging off
+a ceiling. It begins moving
+up     and     down     after
+someone pulled down on
+the mass and lets the
+spring go. Is the system
+now open or closed? Was it
+ever open or closed?
+
+
+
+
+Sun
+
+
+
+
+                                Planet     A,   a    newly-
+                                discovered planet, is found
+                                to be the farthest planet
+                 Planet A
+                                from the Sun. Is Planet A
+                                considered an open system
+                                or a closed system? Why?
+
+
+
+
+              3.3 SYSTEMS AND REFERENCES             119
+THOUGHT PROVOKING
+
+ A car is moving at 50 m/s in a straight line around
+ the circumference of the Earth. Describe what
+ reference is used to arrive at this number and
+ label it on the system drawn below.
+
+
+
+
+                            Label all the forces and
+   B
+
+
+
+
+                            their directions of the
+        A
+
+
+
+
+                            system consisting of
+                            Object A and Object B.
+
+
+
+
+120 3.3 SYSTEMS AND REFERENCES
+      3.4 MACHINES
+   What are machines and what are the
+        mechanics behind them?
+
+Questions of the day
+                  How is an automobile able to
+                  move with just a press on the
+                  accelerator and turn using a
+                  steering wheel? (how do the
+                  engine   and   parts   of  an
+                  automobile work together)
+
+                  Why do you get tired more quickly
+                  running than biking even though
+                  your legs are propelling you in both
+                  scenarios?
+
+
+
+
+KEY WORDS
+Lever
+Machine
+Momentum
+Rotation
+Torque
+Propel
+Steering
+Engine
+Wedge
+
+
+
+             3.4 MACHINES                       121
+               WHAT ARE
+               MACHINES?
+By definition, machines are physical systems or devices that use
+power to apply force and control movement to an object. There
+are two main categories of machines, automated and human-
+controlled.
+
+Human Controlled Machines
+Human-controlled machines require human interactions and
+labor in order to work. This is seen in machines such as the lever,
+a steering wheel, or machines that manufacture parts.
+
+
+                   A wheelbarrow is an example of a human-
+                   powered machine as it requires physical force
+                   and labor to operate and move.
+
+
+                   A mop is another example of a human-
+                   powered machine as in order for it to clean a
+                   surface you need to apply force to it.
+
+
+
+Automated Machines
+There are also automated machines that do not
+require human interaction and are completely
+independent. These machines typically utilize
+sensors and computer software, including
+machine learning algorithms, which make them
+more accurate and precise compared to human-
+operated machines. In the real world, this
+technology is commonly found in engines and
+motors that power various vehicles and objects,
+such as automobiles and lawnmowers.
+
+
+
+122                    3.4 MACHINES
+ TYPES OF MACHINES
+What is a Simple Machine?
+Simple machines are mechanical devices that help apply a force to
+modify motion and perform work
+
+
+The Big Six of Simple Machines:
+
+
+ Inclined plane             Wheel and axle               Lever
+
+
+
+
+       Wedge                    Screw                    Pulley
+
+
+
+Why Use Machines?
+Efficiency! The utilization of machines greatly simplifies and
+expedites tasks, often enhancing precision as well. For instance,
+machines enable swift transportation from one place to another,
+thanks to motors, engines, and bicycles. Machines can be found
+everywhere we look, from fans to cellphones, serving various
+purposes. In manufacturing, machines streamline the production of
+parts, allowing for precise and large-scale manufacturing,
+surpassing the limitations of handmade goods. The possibilities and
+applications of machines are endless, but the overarching concept
+is their immense benefit in facilitating everyday tasks and
+occupations.
+
+
+
+                       3.4 MACHINES                            123
+   HOW DO MACHINES
+        WORK?
+Although machines may seem complex, they are often just a bunch
+of simple machines working together. Each and every complex
+machine is made up of two or more simple machines.
+
+
+
+
+        Screwdriver                             Shovel
+
+
+
+
+                           Backhoe
+For example, a screwdriver is just a wheel and axle and a wedge
+working together. A backhoe is just a lever and wedge acting
+together which allows the complex machine to dig and lift up dirt.
+The same is seen with a manual handheld shovel, where a lever and
+wedge work together to make it easy to dig out and lift dirt. Although
+they seem very complex, machines are essentially just a bunch of
+parts working together to make a task easier. There is some physics
+behind this, but that is also relatively easy to understand.
+
+
+
+124                    3.4 MACHINES
+THE PHYSICS BEHIND
+     MACHINES
+ Momentum and Torque
+ Momentum is the amount of strength or force an object gets as it
+ moves. Torque is the measure of the force that can cause an object to
+ rotate about an axis.
+
+
+
+
+Momentum        Mass    Velocity          Torque       Force    Radius
+
+According to momentum, a rotating object will stay rotating at a
+certain angular velocity (the measurement for the spin of an object)
+unless acted upon. This is seen especially in machines, in specific car
+engines. The engines in cars rotate about an axis, which creates
+torque, which is the strength of a vehicle. This torque is what allows a
+car to accelerate from 0 to 60 miles per hour in a certain amount of
+seconds (the more torque generated, the shorter this acceleration
+period will be). This is true in any spinning objects, such as motors and
+wheels.
+
+
+
+
+Wheel and Axis                  Car Engine                   Motor
+
+
+
+                         3.4 MACHINES                              125
+       CONSTRUCTING A
+          MACHINE
+Constructing a machine is not exceedingly difficult. It primarily
+necessitates applying the physics principles mentioned earlier and
+assembling a variety of components, including gears, screws, and
+building materials. Once you possess a blueprint outlining what you
+intend to construct, a plan for its operation, and the necessary parts
+for its construction, building the machine itself becomes relatively
+straightforward.
+                     For example, let's
+                       examine the
+                      printing press!
+
+   Screw to raise
+   and lower the
+     press and a
+  wooden lever to
+   turn the screw
+
+
+
+
+       Wooden
+        frame
+
+
+
+
+                    Paper
+                               Wooden plate
+                                to press the    Leather balls
+                                paper along      stuffed with
+                                 with paper      wool and ink
+                                   holder      supplied the ink
+                                                 to the press
+
+
+
+
+126                         3.4 MACHINES
+             APPLICATION
+             Make a homemade scale!
+          Materials: 2 paper cups, a small flat
+           piece of wood, and a binder clip
+
+1. Place the surface of the binder
+clip on the ground so that the
+sides pointing inward are facing
+up
+
+
+2. Place the middle of the piece of
+wood on the binder clip (faced
+perpendicular to the board,
+balancing it
+
+
+
+
+3. Place each cup on the opposite
+sides of the wood and fill the cups
+up with objects to test the scale
+
+
+
+
+4. When done, it should look
+similar to this!
+
+
+
+
+                         3.4 MACHINES             127
+THOUGHT PROVOKING
+ Which one is a more efficient machine and why?
+
+
+
+
+      A bicycle or a gas fueled car's engine?
+
+
+
+
+                          Why are solar panels so
+                       efficient and preferable over
+                           burning fossil fuels for
+                            harnessing energy?
+
+
+
+
+Why are you able to bounce back
+     up on a trampoline?
+
+
+
+
+128              3.4 MACHINES
+   3.5 CARS ON A ROLL
+        GRAVITY
+How do forces change a car's motion?
+
+Questions of the day
+How are forces on a car impacted
+by terrain and the car's properties?
+What happens on a car ride if
+you increase the suspension?
+
+How does a car move?
+
+When does a car start to slip?
+
+
+
+
+KEY WORDS
+   Roll-force
+      Tires
+Center-of-gravity
+    Stability
+  Suspension
+     Impact
+  Air-pressure
+   Roll-over
+    Traction
+
+
+
+                3.5 CARS ON A ROLL GRAVITY   129
+      HOW CAN A CAR
+    CHANGE ITS FORCE?
+                               Recap on Velocity,
+    Gravity
+                               Acceleration, and Forces
+                               When an object is moving, it is called speed, and
+                               when you add a direction to the speed, you call
+                               it velocity. An object that is speeding up or
+                               slowing down has an acceleration and also has a
+                               direction and a number to it. If we have both the
+                               acceleration and the mass of the object, we can
+                               solve for the force that is being exerted on the
+ The apple on the left has a
+  force while the apple on
+                               object and the direction, by multiplying the
+   the right has no force.     acceleration and time.
+
+
+
+How Can a Car Change
+its Force?
+A car can change its force in several
+ways. It can slow down due to factors
+such as friction, the person driving       The Car is changing its Force
+pushing the brakes or going up an              because of turning
+incline.                                               NORMAL
+It can also speed up due to someone                      FORCE
+pressing the gas pedal or a car hitting
+it from behind. Because force,
+acceleration, and velocity all have a
+direction given to
+                                        ACCELERATION
+them, they will change when the car is
+speeding up or slowing down as well.                             GRAVITY
+
+
+
+                        3.5 CARS ON A ROLL GRAVITY                       130
+WHAT IS ROLL FORCE?
+
+    Types of Motion
+Cars can exhibit two types of motion:
+translational motion and rolling
+                                                 The tennis ball has translational motion
+motion. Translational motion occurs
+when all points of an object move in
+the same direction. For instance, a
+rocket     launched         straight    up
+demonstrates                  translational
+movement. On the other hand, rolling          A rotating tennis ball with translational motion but
+                                                                  no roll force
+motion, also known as roll force,
+occurs when a moving object, such as
+a wheel, experiences the effects of
+normal force, friction, and gravity.
+                                              A rolling tennis ball with translational motion and
+However, if the object is not on a                                  roll force
+surface, it is not subjected to roll
+force, even if it is rotating.
+                                                  What is Inertia
+                                       Inertia is another factor that
+                                       influences roll force. It is calculated
+                                       by multiplying the mass of an
+                                       object by the square of its radius
+                                       from the center, and then
+                                       multiplying it by a constant factor
+                                       based on the object's shape and
+                                       weight distribution. If an object has
+                                       greater inertia, it will exhibit higher
+                                       resistance to rotational motion. In
+                                       other words, the lower the inertia,
+Inertia Is also the reason why
+                                       the less force is required to initiate
+ planets are rotating the sun
+                                       movement in the object.
+
+
+131          3.5 CARS ON A ROLL GRAVITY
+            EXPERIMENT
+
+Materials:
+   Small Sphere (marble, ping-pong
+   ball, etc.)
+
+   2 Surfaces (1 really smooth [ice,
+   glass, etc.] and one normal
+   surface [cardboard, wood, etc.])
+
+Procedure:
+ 1. Create a ramp with the material
+    and place the sphere at the top.
+ 2. Observe how the sphere moves
+    down the ramp.
+ 3. Change the starting height of the
+    sphere or increase the height of
+    the ramp and observe the
+    changes in the sphere.
+ 4. Change the surface and observe
+    how the sphere behaves
+    differently.
+ 5. Try to come up with an
+    explanation or theory based on
+    your observations.
+
+
+             3.5 CARS ON A ROLL GRAVITY   132
+HOW CAN WE CHANGE
+   ROLL FORCE?
+Roll force can be influenced by various
+factors, particularly in the context of a
+tire. The shape of the wheel, weight
+distribution, and the type of road surface
+can   significantly       impact        roll    force.
+Alterations in these factors can lead to
+substantial    changes          in    the      driver's
+control over the car and the overall
+experience of the passengers. For instance, if a tire has lower air
+                                               pressure, it will experience reduced
+                                               roll force. This is also one of the
+                                               contributing factors to hydroplaning,
+                                               which occurs when a car's tires lose
+                                               grip on the road and begin to skid. It is
+                                               for this reason that when embarking
+                                               on a trip in cold weather, it is advised
+                                               to inflate your car's tires with higher
+                                               air pressure.
+
+Another        factor           that        can
+significantly affect the amount of
+roll force in a tire is the number of
+spokes it has. The spokes in a tire
+contribute         to      its         rigidity,
+preventing deformation when the
+car is in motion. If a tire has fewer
+spokes,      resulting     in        decreased
+stiffness,    it   will   require        more
+energy to keep the tire rolling.
+                                                          Tire Spoke
+
+
+
+133            3.5 CARS ON A ROLL GRAVITY
+HOW CAN WE CHANGE
+   ROLL FORCE?
+                      When an object rolls down a ramp,
+                      converting potential energy to kinetic
+                      energy, it experiences a loss in
+ROTATIONAL
+                      translational motion. However, due to
+  ENERGY
+                      some of the energy being converted to
+                      rotational motion, the rolling object will
+                      move slower than an object with more
+                      kinetic energy, even if both objects
+                      possess the same total energy. In other
+                      words, if we allow a rolling object and a
+                      non-rolling object to slide down a ramp,
+ TRANSLA-
+  TIONAL              the non-rolling object will reach the
+  ENERGY              bottom first.
+
+                            Rotational Inertia
+                      Inertia is a very large topic and it is very
+                      hard to describe it in a few pages.
+                      However, I will sum up the main concepts
+                      you need to know about how inertia affects
+                      roll force. Inertia's equation mass times
+                      radius squared if we change one of those
+                      factors we can get a different roll force
+                      value. This means higher mass or radius of
+                      an object means more roll force.
+
+                    Quick Recap
+   Roll Force is caused by friction, gravity, and normal force
+ Roll Force can be changed in many ways from tire pressure, an
+ object's resistance to deformation, to the type of surface the
+                     object is being used on
+   A greater role force requires more energy for the object to
+                           keep moving
+
+
+            3.5 CARS ON A ROLL GRAVITY                       134
+THOUGHT PROVOKING
+
+ What would reach the bottom of the ramp first?
+ (same mass and ramp)
+
+
+
+
+                What are some examples of
+                common objects that rely on roll
+                force to work properly?
+
+
+Imagine 2 rolling balls. What
+would happen to their rolling
+speed and how fast they are
+moving if they hit each other?
+
+
+
+Does speed stay constant when a
+car is taking a turn or driving
+alongside a curve?
+
+
+
+
+135    3.5 CARS ON A ROLL GRAVITY
+            3.6 ROLLER
+            COASTERS
+ What do builders have to consider to
+      garuntee a rider's safety?
+
+Questions of the day
+                      Where do you feel the most
+                      force on a roller coaster?
+
+                      Why does your roller coaster
+                      not stop in the middle?
+
+                      Why do roller coasters not
+                      fall off the track when they go
+                      upside down?
+
+
+
+
+KEY WORDS
+HELIX
+BANKED
+TURN
+HEADCHOPPER
+HILL
+WAVE
+WHIPLASH
+LOOP
+CREST
+
+
+
+            3.6 ROLLER COASTERS                  136
+ ROLLER COASTERS IN
+      MOTION
+Roller coasters are driven by one of the most important forces existing;
+gravity. As noticed, roller coasters begin at one of the lowest points on a
+ride. The only reason a roller coaster is able to defy gravity and travel
+upwards is because of the tension given by the chains and motor.
+However, after the chains take the riders to the peak, all the upcoming
+hills must be shorter than this one.
+                                                                 Peak A
+
+      Peak B
+
+
+Peak C
+
+
+
+
+This is because roller coasters have no added energy to their system,
+preventing them from going higher than they started. As the cart is
+pulled up to Peak A, the potential energy of the system increases. As it
+travels through the track, the roller coaster experiences friction, taking
+its potential energy and turning it into kinetic and thermal energy
+(friction). This loss of energy prevents roller coasters from going higher
+than they began. As shown, Peak B and Peak C are all lower in height than
+Peak A in order to keep the cart in motion. These fundamentals are the
+principles that must be kept in mind when building a roller coaster.
+
+
+
+                    3.6 ROLLER COASTERS                             137
+  ROLLER COASTERS IN
+       MOTION
+     Why does the amount of energy in a
+              system matter?
+The amount of energy within a system
+determines the distance a roller coaster
+can travel. Potential energy, resulting
+from gravity, increases with height, and a
+greater amount of energy allows for more
+transfer to kinetic energy. Energy cannot
+be created or destroyed; it can only be
+transferred. When there is less energy in a
+                                               The longer the track, the more energy
+system, it has limited potential for action,         needed to finish the ride.
+resulting in fewer peaks and loops on the
+roller coaster.
+
+How are Roller Coasters built?
+The task of building a roller coaster requires some of the most
+knowledgeable architects in the field. This is because while a builder wants
+to entertain their customers, they must always consider user safety. In
+order to do this, they must understand the topic of physics. This includes
+various factors such as friction, normal force, centripetal force, air
+resistance, gravity, and many other things. To start off with, an engineer
+must understand how high each bump of a roller coaster can be. This is
+because after a car is taken to the top, the roller coaster must not stall.
+The next bumps cannot be the
+same height, or higher, than
+the original starting point. This
+is because of friction, which
+takes away kinetic energy from
+the system, decreasing how far
+the roller coaster can travel.
+
+
+
+
+138                 3.6 ROLLER COASTERS
+      HOW ARE ROLLER
+      COASTERS BUILT?
+                                   The only exception to this is when extra
+                                   energy is added to the cars. This happens
+   All forces must be equal
+    or else a person would         when there are additional chains bringing
+   either sink through their       the cars up or if there are rollers boosting
+  seat or fly up into the air.     the cars at a further speed. The next
+                                   component to be taken into account is the
+                                   G-force applied to the rider. G-force is how
+Gravity            Additional
+                   centripetal     many times the acceleration of gravity a
+                  force at the     person feels. Earth currently accelerates
+                    bottom of      everyone at 9.81 m/s, so 2G's would be
+                  loops or hills
+                                   19.62 m/s. 3G's would be 3 times gravity
+                                   and so on. A normal human can only
+                                   withstand 9 G's, meaning a person who
+                                   weighs 80 kgs would now weigh 720 kgs.
+                                   This is, however, the limit to someone's
+                                   body, and generally a rollercoaster will
+                                   limit their G-force to 5G's. This is made so
+                                   even the younger or more frail population
+                                   will be able to ride along. The final major
+                                   aspect an architect must bear in mind is if a
+                                   roller coaster can go through a loop. This
+                                   means     defying    gravity   and     therefore
+                                   require careful calculations to ensure the
+Normal force from the seat         roller   coaster    doesn't    stall   and    roll
+  of the roller coaster is
+                                   backward.     An      interesting      fact    to
+equal to both gravity's and
+    centripetal's force            understand however is that mass does not
+                                   need to be taken into account when
+                                   building a roller coaster.
+
+
+
+139                  3.6 ROLLER COASTERS
+    BUILDING A MODEL
+     ROLLER COASTER
+Building a roller coaster may seem complex at first, but the logic
+behind it is simple. The main rule to follow is that the highest point
+of a roller coaster is the starting point.
+
+
+       Materials:
+                                        1) Begin the roller coaster by
+                                        building a structure to hold
+       Cardboard                        the beginning.
+       Some sort of piping
+       (construction                    2) Lay the pipe going down
+       paper rolls work)                the structure(after gluing
+       Tape or glue                     together enough materials to
+                                        make a long enough ramp)
+
+                                        3) add a curved portion at
+                                        the bottom
+
+                                        4) Add another support for
+                                        the other hill. Experiment
+                                        with this height to see how
+                                        high it can go.
+     The pipe represents the track
+
+                                        5) Lay tracks going up onto
+                                        the next support, and add
+                                        the remaining part leading
+                                        downwards at the end.
+
+
+
+
+                                           The cardboard represents the
+                                                  support beams
+
+
+
+
+                  3.6 ROLLER COASTERS                              140
+      ELEMENTS OF OUR
+      ROLLER COASTER
+One important science to roller coasters
+is the force acting on each person. At the
+top of each peak, or while riding down,
+there's a moment of weightlessness that
+riders experience. This is because the
+roller coaster is moving at the same
+speed and same direction as gravity. You
+may even be lifted out of your seat if it
+wasn't for the restraints.
+
+
+
+
+                             Riders may also experience additional forces
+                             acting on them, particularly at the bottom of
+                             each dip on the roller coaster. This occurs
+                             because, at the bottom, the roller coaster is
+                             attempting      to    accelerate     upwards,
+                             counteracting the force of gravity. When the
+                             force experienced is twice as strong as
+                             gravity, it is referred to as 2G, with "G"
+                             representing the force of gravity.
+
+
+The last type of force experienced by
+riders is centripetal force. This occurs
+when a rider goes inside a loop. This
+force is when the rider's acceleration is
+towards the center of a loop, and the
+most force on a roller coaster is felt
+during this loop. This is because gravity,
+acceleration, and normal force all act on
+a rider at the same time.
+
+
+
+
+141              3.6 ROLLER COASTERS
+  APPLYING ROLLER
+COASTER KNOWLEDGE
+                       Rider's situation
+                      A rider gets on the roller coaster
+                      but is scared that the ride will
+                      stall in the middle and that they
+                      wouldn't be able to go over the
+                      first hill. Use your knowledge to
+                      assure the rider that the ride
+                      won't stop and explain why.
+
+
+
+
+Determine if the following rollercoasters
+         will work as planned.
+
+
+
+
+Explain how you would feel at the top of
+a rollercoaster compared to the bottom.
+
+           3.6 ROLLER COASTERS                   142
+THOUGHT PROVOKING
+      Which roller coaster would reach
+                the end first?
+
+
+
+
+Travels 50 meters upwards at a        Travels up the initial hill at 4
+constant rate of 3 m/s, and           m/s for 37 meters, and keeps
+accelerates downwards for 50          an average speed of 20 m/s
+meters by gravity's acceleration.     for 250 meters
+
+                                      If a roller coaster has loops
+                                      and bunny hills, can it still
+                                      have the same velocity
+                                      throughout the whole roller
+                                      coaster? Can it have the same
+                                      speed?
+
+
+
+How can an engineer make a roller
+coaster so that the cars don't need
+to be attached to the tracks and
+still won't derail through a loop?
+
+
+
+
+143              3.6 ROLLER COASTERS
+              THANK YOU
+  We would like to express our heartfelt gratitude to all
+     those who have made the creation of this book,
+       "Science and Beyond," possible. Through the
+     collaborative efforts of STEM Made Fun and the
+    dedicated individuals who contributed their time,
+expertise, and passion, we have aimed to make science
+   accessible, engaging, and enjoyable for young minds
+                        everywhere.
+ To our Team of Volunteers: A special thank you to the
+  incredible team of volunteers who generously shared
+their knowledge and enthusiasm to help bring this book
+      to life. Your commitment to inspiring the next
+ generation of STEM enthusiasts is truly commendable.
+   Without your hard work and dedication, this project
+                would not have been possible.
+   To the Contributing Authors and Experts: We extend
+  our deepest appreciation to the contributing authors
+and experts who generously shared their expertise and
+        insights within the pages of this book. Your
+contributions have provided invaluable knowledge and
+have helped foster a love for science among our young
+ readers. Your passion for your respective fields shines
+        through and inspires curiosity and wonder.
+
+
+
+
+                                                    144
+              THANK YOU
+ To the Parents, Educators, and Supporters: We would
+like to express our gratitude to the parents, educators,
+ and supporters who have championed our cause and
+      believed in the power of STEM education. Your
+   unwavering support and encouragement have been
+  instrumental in our mission to make STEM education
+fun and accessible for all. Thank you for embracing the
+ importance of science and for nurturing the curiosity
+  and potential of our future scientists, engineers, and
+                         innovators.
+To the Readers: Lastly, we extend a heartfelt thank you
+     to the young readers who have embarked on this
+    exciting scientific journey with us. Your curiosity,
+ enthusiasm, and eagerness to explore the wonders of
+the world are the driving force behind STEM Made Fun.
+   We hope this book inspires you to embrace science,
+    dream big, and reach for the stars. Remember, the
+ possibilities are limitless when you combine curiosity
+                      with knowledge!
+    Thank you all for being a part of STEM Made Fun's
+   mission to ignite a passion for science and beyond.
+  Together, we are shaping a brighter future where the
+           wonders of STEM are accessible to all.
+                With heartfelt appreciation,
+        Krishiv & Aashrith Founder, STEM Made Fun
+
+
+
+                                                   145
+
