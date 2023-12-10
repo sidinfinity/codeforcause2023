@@ -20,14 +20,28 @@ class _ChatScreenState extends State<ChatScreen> {
     if (_controller.text.isEmpty) return;
     
     setState(() {
-      // _messages.insert(0, _controller.text);
+      _messages.insert(0, ChatMessage(text: _controller.text, sender: "user"));
       _isTyping = true;
     });
 
-    final request = await fetchdata("http://127.0.0.1:5000/api?query=You are a customer service bot. Answer the users last request, using the previous requests as context: " + _controller.text);
-    print(request);
+    final request = await fetchdata("http://127.0.0.1:5000/api?query=You are a customer service bot.Provide the user with resourceful links if they ask, such as youtube videos. Answer the users last request, using the previous requests as context: " + _controller.text);
+    insertNewData(request);
+    // print(request);
     _isTyping = false;
     _controller.clear();
+  }
+
+  void insertNewData(String response, {bool isImage = false}) {
+    ChatMessage botMessage = ChatMessage(
+      text: response,
+      sender: "bot",
+      isImage: isImage,
+    );
+
+    setState(() {
+      _isTyping = false;
+      _messages.insert(0, botMessage);
+    });
   }
 
   Widget _buildTextComposer() {

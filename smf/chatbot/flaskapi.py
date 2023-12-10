@@ -3,7 +3,7 @@ from llama_index import StorageContext, load_index_from_storage
 from flask_cors import CORS
 import os
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = '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'
 
 app = Flask(__name__)
 CORS(app)
@@ -12,16 +12,21 @@ index = load_index_from_storage(storage_context)
 query_engine = index.as_query_engine()
 
 def chatbot(input):
+    os.environ["OPENAI_API_KEY"] = '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'
     return query_engine.query(input).response
+
+cors = CORS(app, resources={r"/api": {"origins": "*"}})
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 @app.route('/api', methods = ['GET'])
 def getresponse():
     d={}
     input = str(request.args['query'])
     answer = chatbot(input)
+    return answer
     d['output'] = answer
-    print(answer)
-    print(d)
+    # print(answer)
+    # print(d)
     return d
     
 
